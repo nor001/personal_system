@@ -1,3 +1,5 @@
+*Ejercicio*
+
 *Menú*
 **Desayuno**
 - 2 huevos
@@ -26,6 +28,14 @@
 
 **El único gap que no resuelve comida:**
 Vitamina D — exposición solar directa 20–30 min/día sino 2,000 IU vitamina D3 con el almuerzo (con grasa para absorción).
+
+*Tecnicas Estudio*
+1. Retrieval Practice: Recuperación activa > releer. Efecto de prueba (testing effect) — la más validada.
+2. Spaced Repetition: Curva Ebbinghaus. Calendario: día siguiente → semana → 15d → 30d es correcto.
+3. Interleaving: Mezclar temas en una sesión en lugar de bloquear uno solo. Contra-intuitivo: se siente peor pero retención a largo plazo es superior ~25%.
+4. Elaborative Interrogation: Preguntarte "¿por qué esto es así?" y "¿cómo conecta con lo que ya sé?" mientras estudias. Fuerza integración semántica, no solo memorización.
+5. Concrete Examples (self-generated): Generar tus propios ejemplos activa encoding más profundo que los del libro.
+6. Dual Coding: Combinar texto + diagrama propio (no copiado). El acto de traducir concepto → visual consolida diferente vía neural.
 
 *Habitos*
 **DIARIO**
@@ -62,3 +72,6 @@ Vitamina D — exposición solar directa 20–30 min/día sino 2,000 IU vitamina
 - Cuenta separada de ahorro: transferencia automática el día de cobro
 - Fondo de emergencia: 3-6 meses de gastos básicos
 - Inversión pasiva indexada: sin timing, sin apuestas activas
+
+*Datos relevantes*
+- Tomar decisiones en L2 reduce la influencia emocional en dilemas de alta carga afectiva, en dominio intermedio-bajo de L2.
