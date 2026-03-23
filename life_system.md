@@ -1,4 +1,5 @@
 **SISTEMA DE VIDA**
+Cuerpo + mente + dirección + dinero + entorno. Todo lo demás es ruido.
 
 **DIARIO**
 | Hábito | Detalle |
@@ -46,6 +47,3 @@
 1. Cuenta separada de ahorro — transferencia automática el día de cobro
 2. Fondo de emergencia — 3-6 meses de gastos básicos
 3. Inversión pasiva indexada — sin timing, sin apuestas activas
-
-**RESUMEN EN UNA LÍNEA**
-Cuerpo + mente + dirección + dinero + entorno. Todo lo demás es ruido.
