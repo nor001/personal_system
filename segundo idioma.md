@@ -1,0 +1,1 @@
+Tomar decisiones en L2 reduce la influencia emocional en dilemas de alta carga afectiva, en dominio intermedio-bajo de L2.
