@@ -1,16 +1,44 @@
 # Sistema de vida
+> Validado · 9 iteraciones · Integración completa  
+> Áreas cubiertas: Ejercicio · Nutrición · Sueño · Energía circadiana · Estudio · Inglés · PKM · Hábitos · Dashboard · Protocolo enfermedad/lesión · Suplementos · Finanzas
+
+---
 
 ## Índice
-- [Ejercicio](#ejercicio) — rutina fuerza, zona 2, distribución semanal
-- [Menú](#menú) — proteína, suplementos, regla ajuste calórico
-- [Técnicas de estudio](#técnicas-de-estudio)
-- [Hábitos](#hábitos) — diario / semanal / mensual / trimestral / anual
-- [Dashboard semanal](#dashboard-semanal) — 7 métricas + reglas de ajuste
-- [Finanzas](#finanzas) — estructura base
-- [Datos relevantes](#datos-relevantes)
-- [Checklist semanal](#checklist-semanal)
+- [1. Ejercicio](#1-ejercicio)
+- [2. Nutrición](#2-nutrición)
+- [3. Sueño](#3-sueño)
+- [4. Energía circadiana](#4-energía-circadiana)
+- [5. Estudio](#5-estudio)
+- [6. Inglés](#6-inglés)
+- [7. PKM](#7-pkm)
+- [8. Hábitos](#8-hábitos)
+- [9. Dashboard semanal](#9-dashboard-semanal)
+- [10. Protocolo enfermedad / lesión](#10-protocolo-enfermedad--lesión)
+- [11. Suplementos](#11-suplementos)
+- [12. Finanzas](#12-finanzas)
+- [13. Datos relevantes](#13-datos-relevantes)
+- [14. Checklist semanal](#14-checklist-semanal)
 
-## Ejercicio
+---
+
+## 1. Ejercicio
+
+### Distribución semanal
+
+| Día | Actividad | Duración |
+|---|---|---|
+| Lunes | Rutina fuerza completa | ~50 min |
+| Martes | Zona 2 | 45–60 min |
+| Miércoles | Rutina fuerza completa | ~50 min |
+| Jueves | Zona 2 | 45–60 min |
+| Viernes | Rutina fuerza completa | ~50 min |
+| Sábado | Zona 2 (fijo si <150 min acumulados) | 30–60 min |
+| Domingo | Descanso real | — |
+
+Micro-cardio adicional: 10–15 min caminata rápida post-comida en días de fuerza cuando sea posible.
+
+---
 
 ### Rutina fuerza ~50 min
 
@@ -28,7 +56,7 @@
 **BLOQUE TIER 1 — 3 rondas en supersets**
 - **Superset A:** Pull-up 6–8 ↔ Dip 8–10 — descanso 90 seg al terminar ronda
 - **Superset B:** Bulgarian split squat 10–12 c/pierna ↔ RDL con mochila 8–12 — descanso 60 seg
-- **Solo C:** Push-up 12–15 — **3 sets**, 60 seg
+- **Solo C:** Push-up 12–15 — 3 sets, 60 seg
 
 **BLOQUE TIER 2 — Circuito 2 rondas (descanso corto entre ejercicios)**
 - Pike push-up 8–10
@@ -48,6 +76,8 @@
 - Hip openers dinámicos: 30 seg c/lado
 - Isquiotibiales activos: 30 seg c/lado
 
+---
+
 ### Reglas de progresión y seguridad
 
 **REGLA DE PROGRESIÓN**
@@ -60,7 +90,7 @@ Progresiones:
 - RDL → aumenta peso en mochila
 
 **REGLA ANTI-ESTANCAMIENTO**
-Si 2 semanas seguidas el indicador (pull-ups totales u otro) no sube Y el sueño está bien → cambia 1 variable por 2 semanas:
+Si 2 semanas seguidas el indicador no sube Y el sueño está bien → cambia 1 variable por 2 semanas:
 - +2.5–5% carga en mochila (RDL/Bulgarian), o
 - +1 rep por set hasta tope, o
 - tempo 3s bajada solo en el primer set (pull-up/push-up)
@@ -68,11 +98,13 @@ Si 2 semanas seguidas el indicador (pull-ups totales u otro) no sube Y el sueño
 **REGLA DE SEGURIDAD — DIPS**
 Sin dolor y con rango controlado. Señal roja: si dolor anterior de hombro aparece durante dips o dura >24–48h → reemplaza dips por 2 semanas completas por: push-up declinado/close-grip, rango reducido, o agarre neutro (anillas).
 
-**SEÑAL DE FATIGA SISTÉMICA** *(nuevo V6.2)*
+**SEÑAL DE FATIGA SISTÉMICA**
 Si 2–3 días seguidos: sueño "malo" + rendimiento percibido ≤5/10 → esa semana:
 - Tier 2 baja a 1 ronda
 - Tier 1 todo a RIR 2
 - No forzar PRs
+
+---
 
 ### Modo contingencia
 
@@ -83,7 +115,7 @@ Si 2–3 días seguidos: sueño "malo" + rendimiento percibido ≤5/10 → esa s
 4. Tier 2: bajar a 1 ronda
 5. Movilidad: recortable
 
-**VERSIÓN MÍNIMA (12–15 min) — viajes / días caóticos** *(nuevo V6.2)*
+**VERSIÓN MÍNIMA (12–15 min) — viajes / días caóticos**
 2–3 rondas sin llegar al fallo:
 - Pull-up o Australian row: 5–8
 - Push-up: 8–15
@@ -92,30 +124,24 @@ Si 2–3 días seguidos: sueño "malo" + rendimiento percibido ≤5/10 → esa s
 
 *Regla: si no puedo hacer el plan completo → hago la mínima.*
 
-> **Opcional (si tu Zona 2 incluye trote):** Tibialis raises 2×15–25, 2–3×/sem al final de fuerza o en días cardio. Reduce riesgo tibia/tobillo.
-
-### Distribución semanal
-Lun / Mié / Vie: Rutina fuerza completa
-Mar / Jue: Zona 2 — 45–60 min
-Sáb: Zona 2 — 30–45 min fijo (ver garantía)
-Dom: Descanso real
-
-Micro-cardio adicional: 10–15 min caminata rápida post-comida en días de fuerza cuando sea posible.
+---
 
 ### Zona 2 — intensidad correcta
 
 - Talk test: puedes hablar en frases completas pero no cantar
 - RPE 4–5/10. FC aprox. 60–70% del máximo
 - Intensidad estable durante toda la sesión
-- Hidratación días largos (45–60 min): si sudas bastante → agua + pizca de sal yodada o electrolitos
+- Hidratación días largos (45–60 min): agua + pizca de sal yodada o electrolitos si sudas bastante
 
 **REGLA DE GARANTÍA — 150 min/sem**
-Escenario mínimo: Mar 45 + Jue 45 + Sáb 30 = 120. Para cerrar: micro-cardio 10 min en 3 días de fuerza = 150 ✅
-Si al llegar el sábado el total acumulado es <150 min → sábado se vuelve 45–60 min fijo, no opcional.
+Mínimo: Mar 45 + Jue 45 + Sáb 30 = 120. Completar con micro-cardio 10 min en 3 días de fuerza = 150 ✅
+Si al llegar el sábado el total acumulado es <150 min → sábado es 45–60 min fijo, no opcional.
 
-## Menú
+---
 
-**Meta proteína:** 1.8g × peso corporal (kg). Distribuir ~20–40g por comida.
+## 2. Nutrición
+
+Meta proteína: 1.8g × peso corporal (kg). Distribuir ~20–40g por comida.
 Sal yodada en casa — solución automática para yodo.
 Fibra: subir gradual (1/4 taza menestras → 1/2 taza) + agua para evitar malestar inicial.
 
@@ -130,8 +156,7 @@ Fibra: subir gradual (1/4 taza menestras → 1/2 taza) + agua para evitar malest
 - 1 cda chía o linaza (~5–6g fibra)
 
 **ALMUERZO**
-- 150–180g proteína animal — 1 día/sem: hígado de res 85–100g
-  *(UL vitamina A preformada adultos: 3,000 mcg/día)*
+- 150–180g proteína animal — 1 día/sem: hígado de res 85–100g *(UL vitamina A: 3,000 mcg/día)*
 - Días de pescado: sardina o caballa > pollo. Meta: 2 porciones/sem
 - 100g col morada
 - 100g camote
@@ -148,16 +173,78 @@ Fibra: subir gradual (1/4 taza menestras → 1/2 taza) + agua para evitar malest
 - Magnesio glicinato 300mg *(UL suplementos adultos ~350mg — bajar si hay malestar GI)*
 
 **ADICIÓN**
-- Betarraga: pre-entreno 2–3h antes. No usar enjuague bucal antiséptico cerca del consumo (interfiere conversión nitrato→NO). Si no puedes pre-entreno, noche suma por salud igual.
+- Betarraga: pre-entreno 2–3h antes. No usar enjuague bucal antiséptico cerca del consumo.
 - Zanahoria noche
-- Jengibre dosis culinaria 3–5g + 1 limón + 2 ajo post-entreno *(interacción con anticoagulantes — ajustar si aplica)*
+- Jengibre 3–5g + 1 limón + 2 ajo post-entreno *(interacción con anticoagulantes — ajustar si aplica)*
 
 **REGLA DE AJUSTE CALÓRICO (sin contar macros)**
 Usa tendencia semanal (peso o cintura + rendimiento):
-- Si cintura/peso baja demasiado y rendimiento cae → **+1 porción de carbohidrato** (más camote o menestras) en almuerzo o cena
-- Si cintura sube sostenido y no es tu objetivo → **−1 porción de carbohidrato** (camote a ~70g o menestras a 1/4 taza)
+- Si cintura/peso baja demasiado y rendimiento cae → **+1 porción carbohidrato** en almuerzo o cena
+- Si cintura sube sostenido y no es tu objetivo → **−1 porción carbohidrato** (camote a ~70g o menestras a 1/4 taza)
 
-## Técnicas de estudio
+---
+
+## 3. Sueño
+> **NUEVO v6.3**
+
+### Fundamentos
+- Duración: 7–9h, horario fijo
+- Magnesio glicinato 300mg con cena — ya en menú
+- Ducha fría: no inmediatamente post-entrenamiento de fuerza (atenúa hipertrofia)
+
+### Ambiente — 3 variables que más mueven aguja
+
+| Variable | Objetivo | Solución mínima |
+|---|---|---|
+| Temperatura | 18–20°C | Ventilador + ropa ligera + descubrir pies si no hay AC |
+| Oscuridad | Blackout total | Antifaz o cortinas opacas — luz filtra melatonina incluso con ojos cerrados |
+| Ruido | Estable | Tapones o ruido blanco/marrón si entorno variable |
+
+### Protocolo pre-sueño (60–90 min antes)
+- Reducir luz azul: bajar brillo al máximo + modo cálido. Óptimo: gafas bloqueadoras o luz naranja/vela
+- Evitar contenido de alta activación cognitiva: series de acción, redes sociales → arousal tarda 20–40 min en bajar
+- Ducha tibia (no fría) 60–90 min antes → acelera descenso de temperatura core → onset más rápido
+
+**ANCLA CIRCADIANA PRINCIPAL**
+Fijar hora de despertar a la misma hora 7 días/sem, incluso si dormiste mal. El zeitgeber más potente es la hora de despertar, no de dormir.
+
+### Métricas
+- Dashboard: añadir calidad subjetiva 1–10 junto a horas
+- Wearable (opcional): Oura o Garmin — útil para tendencias, no diagnóstico clínico
+
+---
+
+## 4. Energía circadiana
+> **NUEVO v6.3**
+
+### Determinar cronotipo
+
+| Hora despertar natural (sin alarma) | Cronotipo | Pico cognitivo aprox. |
+|---|---|---|
+| Antes de 7am | Alondra | 7–10am |
+| 7–9am | Intermedio | 9am–1pm |
+| Después de 9am | Búho | 11am–3pm |
+
+### Estructura de día (base: cronotipo intermedio)
+
+| Franja | Actividad |
+|---|---|
+| Despertar + 30 min | Luz natural, no pantallas, desayuno |
+| + 1–4h post-despertar | Bloque mental principal (estudio SAP/BTP, inglés output) |
+| Post-almuerzo | Zona 2 o tareas mecánicas (inbox, admin) |
+| 16–18h | Fuerza o segundo bloque mental |
+| 2h pre-sueño | Sin trabajo exigente, reducir estimulación |
+
+**REGLA FUERZA TARDÍA**
+El ejercicio de fuerza eleva temperatura core y cortisol ~2–4h. Si entrenas después de 19–20h y duermes mal → mover fuerza a mañana o mediodía. Señal: onset de sueño retrasado >30 min de forma consistente.
+
+Luz natural primeros 30 min post-despertar: ancla circadiana secundaria.
+
+---
+
+## 5. Estudio
+
+### Sistema de 8 técnicas
 
 1. **Retrieval Practice:** al cerrar sesión → 5 min escribir de memoria + 3–5 preguntas tipo examen auto-creadas + corrección el mismo día. Trigger obligatorio.
 2. **Spaced Repetition adaptativo:** recuerdas fácil → duplicas intervalo; con esfuerzo → mantienes; fallas → acortas + generas 1 ejemplo propio. Base: día siguiente → semana → 15d → 30d.
@@ -166,9 +253,55 @@ Usa tendencia semanal (peso o cintura + rendimiento):
 5. **Concrete Examples (self-generated):** tus propios ejemplos > los del libro.
 6. **Dual Coding:** texto + diagrama propio. No copiado.
 7. **Espaciado interno en sesión:** bloques 10–15 min → pausa → 10–15 min. Separar revisiones mañana/tarde si posible.
-8. **Simulacro mensual:** 20–30 min sin apuntes, tipo examen acumulativo. Métrica de verdad de terreno.
+8. **Simulacro mensual:** 20–30 min sin apuntes, tipo examen acumulativo. Métrica real de terreno.
 
-## Hábitos
+---
+
+## 6. Inglés
+> **NUEVO v6.3**
+
+### Input — 30 min (jerarquía)
+- **Prioridad 1:** audio/video con transcript. Nivel i+1: entiendes 70–80%, 20% restante es el reto. Fuentes: BBC Learning English, All Ears English, YouTube subtítulos en inglés (no traducidos)
+- **Prioridad 2:** textos técnicos en tu dominio (SAP, BTP, arquitectura software)
+
+### Output — 30 min (rotación)
+
+| Día | Actividad | Detalle |
+|---|---|---|
+| Lunes | Escritura + corrección | Escritura libre 15 min → feedback IA (gramática + vocabulario alternativo) → 15 min implementar |
+| Miércoles | Shadowing + speaking | Shadowing 15 min (repetir audio frase por frase) + grabar 2–3 min en tema técnico → escuchar → 1 error |
+| Viernes | Retrieval en L2 | Explicar 1 concepto SAP/BTP en inglés sin notas, 20 min. Doble función: estudio + producción L2 |
+
+### Métricas
+- Cada 60 días: IELTS mock test gratuito (British Council o Cambridge) — mide las 4 skills por separado
+- Skill más baja → +10 min esa semana
+- Duolingo: herramienta de vocabulario, **no** indicador de progreso real
+
+**SPEAKING — protocolo mínimo anti-bloqueo**
+2–3 min grabación de voz, 3×/sem (dentro del bloque output). No necesitas interlocutor para empezar. Objetivo inicial: reducir latencia de producción, no perfección.
+
+---
+
+## 7. PKM
+> **NUEVO v6.3**
+
+*Principio: un PKM que no se usa en <30 segundos de captura no se sostiene. Complejidad mata adherencia.*
+
+### 3 capas
+
+| Capa | Frecuencia | Acción | Integración |
+|---|---|---|---|
+| 1 — Captura | Continua | Bandeja única, sin procesar. Cualquier idea que valga en 30 días → registrar | Últimos 2 min de reflexión diaria |
+| 2 — Procesamiento | 1×/sem (sábado) | Inbox → accionable (tareas) / referencia / insight a desarrollar | Primeros 5 min de escritura del sábado |
+| 3 — Conexión | 1×/mes | Revisar insights, buscar 1–2 conexiones entre dominios distintos | Últimos 10 min del simulacro mensual |
+
+### Herramienta
+- **Fase 1 (ahora):** notas nativas del teléfono — 3 carpetas: Inbox / Referencia / Insights. Setup: 2 min.
+- **Fase 2 (opcional):** Notion u Obsidian — solo si adherencia ≥8 semanas Y el volumen o la búsqueda lo justifican. No antes.
+
+---
+
+## 8. Hábitos
 
 ### Diario
 - Sueño: 7–9h, horario fijo
@@ -176,26 +309,29 @@ Usa tendencia semanal (peso o cintura + rendimiento):
 - Vacío mental: 10–15 min sin estímulo — integrable en caminata outdoor
 - Bloque mental: 1h según rotación
 - Alimentación: verduras + proteína + carbohidratos complejos + fibra. Sin procesados como base
-- Reflexión: 15 min — qué pasó / qué agradezco / qué ajusto
+- Reflexión: 15 min — qué pasó / qué agradezco / qué ajusto + últimos 2 min captura PKM
 
 ### Ducha fría
-3×/sem, 2–3 min. Timing: mañana al despertar o días cardio/descanso. No inmediatamente post-entrenamiento de fuerza (atenúa hipertrofia).
+3×/sem, 2–3 min. Timing: mañana al despertar o días cardio/descanso. No inmediatamente post-entrenamiento de fuerza.
 
 ### Bloque mental — rotación semanal
-- **Lun / Mié / Vie:** Inglés — 30min input + 30min output. Métrica: test IELTS o Duolingo cada 60 días
-- **Mar / Jue:** Lectura profunda — no ficción, técnico o desarrollo personal
-- **Sábado:** Escritura — síntesis semanal, ensayo, diario extendido
-- **Domingo:** Libre o skill monetizable (freelance, proyecto, negociación)
+
+| Día | Actividad | Métrica |
+|---|---|---|
+| Lun / Mié / Vie | Inglés — 30min input + 30min output rotativo | IELTS mock 4 skills c/60 días |
+| Mar / Jue | Lectura profunda — no ficción, técnico o desarrollo personal | — |
+| Sábado | Escritura — síntesis semanal, ensayo, diario extendido + procesamiento PKM | — |
+| Domingo | Libre o skill monetizable (freelance, proyecto, negociación) | — |
 
 ### Semanal
-- Ayuno 18h: Sábado — última comida viernes ~7pm, romper sábado ~1pm. Si baja rendimiento o compromete proteína semanal → reducir a 14–16h o mover a día sin fuerza
+- Ayuno 18h: Sábado — última comida viernes ~7pm, romper sábado ~1pm. Si baja rendimiento o compromete proteína → reducir a 14–16h o mover a día sin fuerza
 - Conexión social: 1h calidad + 1 micro-conexión (10–15 min). Métrica: ¿saliste diferente de como entraste?
 - Dashboard del sistema (5 min)
 
 ### Mensual
 - Revisión financiera: 30 min — gastos vs. ahorro vs. inversión. Ahorro automático mínimo 10–20% antes de gastar
 - Auditoría de pantalla: ¿tecnología apoya o sabotea el sistema? Ajustar
-- Simulacro de estudio acumulativo: 20–30 min sin apuntes
+- Simulacro de estudio acumulativo: 20–30 min sin apuntes + últimos 10 min revisión conexiones PKM
 
 ### Trimestral
 - Revisión de dirección: 1h — ¿hacia dónde voy?, ¿qué cambió?, ¿qué elimino?
@@ -207,58 +343,162 @@ Usa tendencia semanal (peso o cintura + rendimiento):
 - Chequeo médico: análisis de sangre completo + 25-OH-D + perfil lipídico (LDL/triglicéridos)
 - Auditoría de entorno: casa, trabajo, teléfono — ¿facilita o dificulta los hábitos?
 
-## Dashboard semanal — 5 min
+---
 
-**FÍSICO**
-1. Zona 2 min/semana (objetivo: 150+ min — talk test como control)
-2. Progreso fuerza: pull-ups totales en 3 sets (u otro indicador elegido)
-3. Dolor articular 0–10: si >3 sostenido → aplicar señal roja dips / reducir Tier 2
+## 9. Dashboard semanal — 5 min
 
-**ENERGÍA**
-4. Sueño promedio (horas + consistencia)
-5. Rendimiento percibido 0–10
+### 7 métricas
 
-**CUERPO**
-6. Peso o cintura (solo tendencia semanal)
+| # | Área | Métrica | Objetivo |
+|---|---|---|---|
+| 1 | Físico | Zona 2 min/semana | 150+ min |
+| 2 | Físico | Pull-ups totales en 3 sets (u otro indicador elegido) | Tendencia al alza |
+| 3 | Físico | Dolor articular 0–10 | ≤3 sostenido |
+| 4 | Energía | Sueño promedio (horas + consistencia) | 7–9h |
+| 5 | Energía | Calidad de sueño 1–10 *(nuevo v6.3)* | ≥7 |
+| 6 | Cuerpo | Peso o cintura (solo tendencia semanal) | Estable |
+| 7 | Adherencia | % bloques clave cumplidos: fuerza 3×, cardio 3×, sueño, estudio | ≥80% |
 
-**ADHERENCIA**
-7. % bloques clave cumplidos: fuerza 3×, cardio 3×, sueño, estudio. Objetivo: ≥80%
-
-**REGLAS DE AJUSTE**
+### Reglas de ajuste
 - 2 semanas: baja rendimiento + sube dolor → reducir Tier 2 a 1 ronda
 - 2–3 semanas sin progreso + sueño bien → aplicar regla anti-estancamiento
 - Adherencia <80% dos semanas seguidas → identificar el bloque que falla y ajustar, no eliminar
 - Señal de fatiga 2–3 días seguidos → Tier 2 a 1 ronda + RIR 2 esa semana
 
-## Finanzas — estructura base (configurar una vez)
+---
+
+## 10. Protocolo enfermedad / lesión
+> **NUEVO v6.3**
+
+### Enfermedad
+
+**REGLA CUELLO ARRIBA / ABAJO**
+- Síntomas **sobre** el cuello (resfriado leve, congestión nasal): versión mínima de fuerza o caminata suave. Sin zona 2 intensa.
+- Síntomas **bajo** el cuello (fiebre, dolor muscular generalizado, GI, pecho): pausa total hasta 24–48h después de que desaparezcan síntomas.
+- **Fiebre: pausa absoluta.** Entrenar con fiebre eleva riesgo cardíaco real.
+
+**Reentrada post-enfermedad**
+
+| Días de pausa | Protocolo |
+|---|---|
+| ≤3 días | Retomar al 70% de volumen — semana de transición |
+| 4–7 días | Semana completa al 60–70%, sin buscar PRs |
+| >7 días | 2 semanas de reintroducción progresiva. Tier 1 completo pero RIR 2–3 todo |
+
+**Nutrición en enfermedad**
+- Mantener proteína aunque baje el apetito (prioridad 1)
+- Hidratación +500ml sobre lo habitual
+- Creatina: continuar (sin contraindicación)
+- Betarraga, jengibre, ajo: mantener
+
+---
+
+### Lesión
+
+**PEACE & LOVE (reemplaza RICE)**
+- Primeras 48h: Protección + Elevación + Evitar antiinflamatorios (interfieren con reparación) + Compresión + Educación
+- Después: Carga progresiva + Optimismo + Vascularización + Ejercicio
+- No inmovilizar salvo fractura confirmada
+
+**Árbol de decisión**
+
+| Señal | Acción |
+|---|---|
+| Dolor en movimiento pasivo | Médico antes de continuar |
+| Dolor solo en carga | Modificar ejercicio, no pausar todo |
+| Dolor >6/10 durante ejercicio | Parar ese ejercicio, continuar el resto |
+| Dolor desaparece al calentar y no vuelve | Entrenable con monitoreo |
+
+**Trabajo alrededor**
+- Lesión tren inferior → mantener tren superior + zona 2 en bicicleta/natación
+- Lesión hombro → mantener tren inferior + core
+- Lesión muñeca/codo → Bulgarian, RDL, zona 2 sin impacto en zona afectada
+
+---
+
+## 11. Suplementos
+
+### Stack base (siempre)
+
+| Suplemento | Dosis | Timing | Nota |
+|---|---|---|---|
+| Creatina | 5g | Cualquier hora | Consistencia > timing |
+| Proteína whey | 1 scoop | Desayuno | Completar meta 1.8g/kg |
+| Vitamina D3 | 2,000 IU | Almuerzo | Ajustar con analítica. UL: 4,000 IU/día |
+| Magnesio glicinato | 300mg | Cena | UL ~350mg. Bajar si malestar GI |
+
+### Stack condicional
+
+| Suplemento | Cuándo añadir | Dosis | Nota |
+|---|---|---|---|
+| Omega-3 (EPA+DHA) | Si sardina/caballa <2×/sem | 1–2g EPA+DHA | Con almuerzo (con grasa). Forma triglicérido > etil éster. Certificación IFOS. |
+| Zinc | Solo si analítica confirma déficit | 15–25mg bisglicinato | Con comida, no ayunas. No junto a magnesio alta dosis. >40mg/día sostenido → depleta cobre. |
+| Ashwagandha KSH-66 | Si estrés elevado sostenido | 300–600mg extracto | Con cena. Ciclar: 8–12 sem on / 4 off. Contraindicado en Hashimoto. |
+
+**NO suplementar sin analítica:** hierro (hígado 1×/sem cubre), B12 (proteína animal cubre), yodo (sal yodada cubre).
+
+---
+
+## 12. Finanzas — estructura base
 
 - Cuenta separada de ahorro: transferencia automática el día de cobro
 - Fondo de emergencia: 3–6 meses de gastos básicos
 - Inversión pasiva indexada: sin timing, sin apuestas activas
-- Broker: Interactive Brokers (IBKR) — sin mínimo de cuenta, comisiones bajas
-  - IBKR Lite ($0 en stocks/ETFs USA) es para residentes de EE.UU.
-  - Países disponibles incluyen Perú (lista oficial IBKR)
+- Broker: Interactive Brokers (IBKR) — sin mínimo de cuenta, comisiones bajas. Disponible en Perú.
 - Vehículo: VT (Vanguard Total World) — ~10,000 posiciones, 50+ países, expense ratio 0.06%, un solo ticker
   - Si residencia fiscal es UE/EEE: usar equivalente UCITS con KID (regulación PRIIPs)
 - Estrategia: DCA mensual fijo sin mirar precio — consistencia > timing
 - Retiro sostenible: 3% anual como base con guardrails — si mercado cae significativamente, ajustar gasto temporalmente
 
 **NOTA FISCAL — estate tax**
-Para no residentes / no ciudadanos USA: el IRS requiere Form 706-NA si los activos situados en EE.UU. superan USD 60,000 al fallecimiento. No cambia la estrategia; obliga a elegir bien el domicilio del ETF y/o planificar.
+Para no residentes / no ciudadanos USA: IRS requiere Form 706-NA si activos en EE.UU. superan USD 60,000 al fallecimiento. No cambia la estrategia; obliga a elegir bien el domicilio del ETF y/o planificar.
 
-## Datos relevantes
-- Tomar decisiones en L2 puede reducir influencia emocional en dilemas de alta carga afectiva (efecto real pero variable por dominio y nivel de L2 — herramienta, no ley universal).
-- Protocolo estrés: activación emocional alta → esperar 20 min y escribir: qué pasó / qué siento / qué necesito / qué acción mínima haría bien / qué acción empeoraría todo. Convierte el delay en regulación, no en evitación.
+---
 
-## Checklist semanal (copiable)
-- [ ] Fuerza (Lun)
-- [ ] Fuerza (Mié)
-- [ ] Fuerza (Vie)
-- [ ] Zona 2 (Mar) ___ min
-- [ ] Zona 2 (Jue) ___ min
-- [ ] Zona 2 (Sáb) ___ min ← 45–60 si faltan minutos
+## 13. Datos relevantes
+
+**Toma de decisiones en L2**
+Tomar decisiones en segunda lengua puede reducir influencia emocional en dilemas de alta carga afectiva. Efecto real pero variable por dominio y nivel de L2 — herramienta, no ley universal.
+
+**Protocolo de estrés / activación emocional alta**
+Si activación emocional alta → esperar 20 min y escribir:
+1. ¿Qué pasó?
+2. ¿Qué siento?
+3. ¿Qué necesito?
+4. ¿Qué acción mínima haría bien?
+5. ¿Qué acción empeoraría todo?
+
+Convierte el delay en regulación, no en evitación.
+
+---
+
+## 14. Checklist semanal (copiable)
+
+**Ejercicio**
+- [ ] Fuerza (Lunes)
+- [ ] Fuerza (Miércoles)
+- [ ] Fuerza (Viernes)
+- [ ] Zona 2 (Martes) ___ min
+- [ ] Zona 2 (Jueves) ___ min
+- [ ] Zona 2 (Sábado) ___ min ← 45–60 si faltan minutos
 - [ ] Micro-cardio post-comida (≥3×)
+
+**Sueño y energía**
 - [ ] Sueño promedio ___ h
+- [ ] Calidad sueño ___ /10
+- [ ] Rendimiento percibido ___ /10
+
+**Estudio e inglés**
 - [ ] Estudio (≥5 días)
-- [ ] Conexión social (1h) + micro (1×)
+- [ ] Input inglés (Lun / Mié / Vie)
+- [ ] Output Lunes: escritura + corrección
+- [ ] Output Miércoles: shadowing + speaking grabado
+- [ ] Output Viernes: retrieval en L2
+
+**PKM**
+- [ ] Capturas de la semana procesadas (sábado, 5–10 min)
+- [ ] Insights registrados: ___
+
+**Social y sistema**
+- [ ] Conexión social (1h calidad) + micro (1×)
 - [ ] Dashboard 5 min (Dom o Sáb)
