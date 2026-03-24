@@ -11,76 +11,88 @@ CALENTAMIENTO — 5 min (sin descanso entre ejercicios)
 
 BLOQUE TIER 1 — 30 min
 3 Sets
-* Pull-up 6–8, 90 seg 
-* Dip 8–10, 90 seg 
-* Push-up 12–15, 60 seg 
-* Squat 15–20, 60 seg
+* Pull-up 6–8, 90 seg
+* Dip 8–10, 90 seg
+* Push-up 12–15, 60 seg
+* Bulgarian split squat 10–12 c/pierna, 60 seg
 
 BLOQUE TIER 2 — integrado
 2 Sets
-* Pike push-up 8–10, 60 seg 
-* Australian row 10–12, 60 seg 
+* Pike push-up 8–10, 60 seg
+* Australian row 10–12, 60 seg
 * Glute bridge 15, 45 seg
+* Calf raises 15–20, 45 seg
 
 CORE FINISHER — 5 min (descanso 30 seg entre ejercicios)
 * Hollow body hold: 3 × 20 seg
 * Plank: 2 × 30 seg
 
-STRETCHING — 5 min
-* Pecho + hombros: 30 seg c/lado
-* Isquiotibiales: 30 seg c/lado
-* Cadera: 30 seg c/lado
+MOVILIDAD ACTIVA — 5 min (reemplaza stretching pasivo)
+* Deep squat hold: 3 × 30 seg
+* Shoulder CARs: 5 reps c/lado
+* Hip openers dinámicos: 30 seg c/lado
+* Isquiotibiales activos: 30 seg c/lado
+
+REGLA DE PROGRESIÓN
+Cuando alcances el tope alto del rango en todos los sets → aumenta dificultad en la siguiente sesión:
+* Push-up → declinadas
+* Pull-up → lastre o tempo lento (3 seg bajada)
+* Bulgarian split squat → añade peso o eleva pie trasero más
 
 *Menú*
+Meta proteína: 1.8g × peso corporal (kg) = target diario en gramos
+
 **Desayuno**
 - 2 huevos
 - 100g brócoli
 - 1 cda maca
 - 1 scoop proteína
-- 5g creatina
+- 5g creatina (cualquier hora — consistencia diaria > timing)
 - 100g fresas
 - 1 cda aceite de oliva
 
 **Almuerzo**
-- 150g proteína animal - 2 días/sem reemplazar por hígado de res 85–100g - Los días de pescado: sardina o caballa > pollo → omega-3 real, no trazas
+- 150–180g proteína animal — 2 días/sem reemplazar por hígado de res 85–100g
+- Los días de pescado: sardina o caballa > pollo → omega-3 real, no trazas
 - 100g col morada
 - 100g camote
 - 10–15g nueces o semillas de calabaza
+- Vitamina D3 2,000 IU (con esta comida — absorción con grasa)
 
 **Cena**
 - 100g espinaca
 - 2 huevos
 - 100g camote
 - 1 cda aceite de oliva
+- Magnesio glicinato 300mg (noche — mejora sueño y recuperación muscular)
 
-**Adicion**
+**Adición**
 - Betarraga + zanahoria noche
 - 10g Jengibre + 1 limón + 2 ajo post-entreno
 
-**El único gap que no resuelve comida:**
-Vitamina D — exposición solar directa 20–30 min/día sino 2,000 IU vitamina D3 con el almuerzo (con grasa para absorción).
-
 *Tecnicas Estudio*
-1. Retrieval Practice: Recuperación activa > releer. Efecto de prueba (testing effect) — la más validada.
-2. Spaced Repetition: Curva Ebbinghaus. Calendario: día siguiente → semana → 15d → 30d es correcto.
-3. Interleaving: Mezclar temas en una sesión en lugar de bloquear uno solo. Contra-intuitivo: se siente peor pero retención a largo plazo es superior ~25%.
-4. Elaborative Interrogation: Preguntarte "¿por qué esto es así?" y "¿cómo conecta con lo que ya sé?" mientras estudias. Fuerza integración semántica, no solo memorización.
+1. Retrieval Practice: Al cerrar cada sesión → 5 min escribir de memoria sin ver el material. Trigger obligatorio, no opcional.
+2. Spaced Repetition: Curva Ebbinghaus. Calendario: día siguiente → semana → 15d → 30d.
+3. Interleaving: Mezclar temas en una sesión. Se siente peor → retención a largo plazo superior ~25%.
+4. Elaborative Interrogation: "¿Por qué esto es así?" y "¿Cómo conecta con lo que ya sé?" mientras estudias. Fuerza integración semántica.
 5. Concrete Examples (self-generated): Generar tus propios ejemplos activa encoding más profundo que los del libro.
-6. Dual Coding: Combinar texto + diagrama propio (no copiado). El acto de traducir concepto → visual consolida diferente vía neural.
+6. Dual Coding: Combinar texto + diagrama propio (no copiado). Traducir concepto → visual consolida distinta vía neural.
 
 *Habitos*
 **DIARIO**
 - Sueño: 7-9h, horario fijo (misma hora de dormir y despertar)
-- Ejercicio: 1h — incluir exposición solar si es posible (caminata outdoor)
+- Ejercicio: 45 min rutina — incluir exposición solar si es posible
+- Vacío mental: 10–15 min sin estímulo (caminar sin móvil o sentarse sin hacer nada) — integrable en caminata outdoor
 - Bloque mental: 1h según rotación (ver abajo)
 - Alimentación: Verduras + proteína + carbohidratos complejos. Sin procesados como base
 - Reflexión: 15min — qué pasó, qué agradezco, qué ajusto
+- Ducha fría: 2–3 min al final de la ducha, 3×/sem mínimo — recuperación muscular + regulación sistema nervioso
 
 **BLOQUE MENTAL — rotación semanal**
-- Lun / Mié / Vie: Inglés — 30min input (lectura/audio) + 30min output (escritura/hablar)
+- Lun / Mié / Vie: Inglés — 30min input (lectura/audio) + 30min output (escritura/hablar). Métrica: test IELTS o Duolingo cada 60 días para verificar progreso real.
 - Mar / Jue: Lectura profunda — no ficción, técnico o desarrollo personal
 - Sábado: Escritura — síntesis de la semana, ensayo, diario extendido
-- Domingo: Libre o recuperación cognitiva
+- Domingo: Libre o recuperación cognitiva / skill monetizable (freelance, proyecto, negociación)
 
 **SEMANAL**
 - Ayuno 18h: Sábado — última comida viernes ~7pm, romper sábado ~1pm. Agua, café negro, electrolitos permitidos
@@ -93,7 +105,8 @@ Vitamina D — exposición solar directa 20–30 min/día sino 2,000 IU vitamina
 **TRIMESTRAL**
 - Revisión de dirección: 1h — ¿hacia dónde voy?, ¿qué cambió?, ¿qué elimino o ajusto?
 - Stop doing list: ¿Qué hábito, persona o actividad me quita energía sin retorno? Eliminar
-- Revisión de relaciones: ¿Quién suma, quién resta? Sin drama — solo claridad
+- Revisión de relaciones: ¿Quién suma, quién resta? Sin drama — solo claridad. Meta: 1 persona nueva de valor por trimestre.
+- Ciclo de descarga: 1 semana al 50–60% de intensidad física y cognitiva cada 6–8 semanas.
 
 **ANUAL**
 - Chequeo médico: Análisis de sangre completo. Detectar antes de sentir
@@ -110,3 +123,4 @@ Vitamina D — exposición solar directa 20–30 min/día sino 2,000 IU vitamina
 
 *Datos relevantes*
 - Tomar decisiones en L2 reduce la influencia emocional en dilemas de alta carga afectiva, en dominio intermedio-bajo de L2.
+- Protocolo estrés: si hay activación emocional alta → esperar 20 min antes de actuar o decidir.
