@@ -1,4 +1,4 @@
-Sistema de vida
+Sistema de vida v6
 
 *Ejercicio*
 Rutina fuerza ~50 min
