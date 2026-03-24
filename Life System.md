@@ -1,4 +1,35 @@
+Sistema de vida
+
 *Ejercicio*
+Rutina completa 45 min
+CALENTAMIENTO — 5 min (sin descanso entre ejercicios)
+* Jumping jacks: 30 seg
+* Arm circles: 30 seg
+* Hip circles: 30 seg
+* Leg swings: 30 seg c/lado
+* Inchworm: 5 reps
+
+BLOQUE TIER 1 — 30 min
+3 Sets
+* Pull-up 6–8, 90 seg 
+* Dip 8–10, 90 seg 
+* Push-up 12–15, 60 seg 
+* Squat 15–20, 60 seg
+
+BLOQUE TIER 2 — integrado
+2 Sets
+* Pike push-up 8–10, 60 seg 
+* Australian row 10–12, 60 seg 
+* Glute bridge 15, 45 seg
+
+CORE FINISHER — 5 min (descanso 30 seg entre ejercicios)
+* Hollow body hold: 3 × 20 seg
+* Plank: 2 × 30 seg
+
+STRETCHING — 5 min
+* Pecho + hombros: 30 seg c/lado
+* Isquiotibiales: 30 seg c/lado
+* Cadera: 30 seg c/lado
 
 *Menú*
 **Desayuno**
@@ -72,6 +103,10 @@ Vitamina D — exposición solar directa 20–30 min/día sino 2,000 IU vitamina
 - Cuenta separada de ahorro: transferencia automática el día de cobro
 - Fondo de emergencia: 3-6 meses de gastos básicos
 - Inversión pasiva indexada: sin timing, sin apuestas activas
+- Broker: Interactive Brokers (IBKR) — sin mínimo, sin comisión, acepta Perú
+- Vehículo: VT (Vanguard Total World) — 9,000+ empresas, 50+ países, un solo ticker
+- Estrategia: DCA mensual fijo sin mirar precio — consistencia > timing
+- Retiro sostenible al llegar a meta: 3% anual (capital no se finiquita, en muchos escenarios crece)
 
 *Datos relevantes*
 - Tomar decisiones en L2 reduce la influencia emocional en dilemas de alta carga afectiva, en dominio intermedio-bajo de L2.
