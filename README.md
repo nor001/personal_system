@@ -10,9 +10,13 @@ CALENTAMIENTO — 5 min (sin descanso)
 * Leg swings: 30 seg c/lado
 * Inchworm: 5 reps
 
+PRE-SUPERSET A — prehab hombro (30–60 seg, antes de empuje/dips)
+* Scapular push-ups: 10–15 reps
+* Band external rotations: 15–20 reps c/lado (si tienes banda)
+
 BLOQUE TIER 1 — 3 Rondas en supersets
-* Superset A: Pull-up 6–8 ↔ Dip 8–10 (descansa entre ellos, completa descanso al terminar la ronda: 90 seg)
-* Superset B: Bulgarian split squat 10–12 c/pierna ↔ RDL con mochila 8–12 (descanso 60 seg entre rondas)
+* Superset A: Pull-up 6–8 ↔ Dip 8–10 (descanso 90 seg al terminar ronda)
+* Superset B: Bulgarian split squat 10–12 c/pierna ↔ RDL con mochila 8–12 (descanso 60 seg)
 * Solo C: Push-up 12–15, 60 seg
 
 BLOQUE TIER 2 — Circuito 2 rondas (descanso corto entre ejercicios)
@@ -46,14 +50,20 @@ Sin dolor y con rango controlado. Si aparece dolor anterior de hombro o codo: re
 
 DISTRIBUCIÓN SEMANAL
 * Lun / Mié / Vie: Rutina fuerza completa
-* Mar / Jue: Zona 2 — 45–60 min (caminata rápida, trote suave, bici)
-* Sáb: Zona 2 — 30–45 min fijo (asegura 150+ min/sem OMS) + opcional paseo/deporte
+* Mar / Jue: Zona 2 — 45–60 min
+* Sáb: Zona 2 — 30–45 min fijo (asegura 150+ min/sem OMS)
 * Dom: Descanso real
 Micro-cardio adicional: 10–15 min caminata rápida post-comida en días de fuerza cuando sea posible.
+
+ZONA 2 — cómo saber que estás en la intensidad correcta
+Talk test: puedes hablar en frases completas, pero no cantar. RPE 4–5/10. FC aprox. 60–70% del máximo. Lo importante: intensidad estable durante toda la sesión. Si puedes hablar fácil y sin pausas → estás bien.
+
+---
 
 *Menú*
 Meta proteína: 1.8g × peso corporal (kg). Distribuir ~20–40g por comida.
 Sal yodada en casa — solución automática para yodo.
+Fibra: subir gradual (comenzar con 1/4 taza menestras → 1/2 taza) + acompañar con agua para evitar gases/malestar inicial.
 
 DESAYUNO
 - 2 huevos
@@ -66,35 +76,39 @@ DESAYUNO
 - 1 cda chía o linaza (~5–6g fibra)
 
 ALMUERZO
-- 150–180g proteína animal — 1 día/sem: hígado de res 85–100g (no más: límite vitamina A preformada UL adultos 3,000 mcg/día)
+- 150–180g proteína animal — 1 día/sem: hígado de res 85–100g (UL vitamina A preformada adultos: 3,000 mcg/día — 1×/sem es prudente)
 - Días de pescado: sardina o caballa > pollo. Meta: 2 porciones/sem.
 - 100g col morada
 - 100g camote
 - 1/2 taza menestras (lentejas/garbanzos/frijoles) — fibra + proteína vegetal
 - 10–15g nueces o semillas de calabaza
 - 1 fuente de calcio: yogur / queso / sardinas con espina / leche o alternativa fortificada
-- Vitamina D3 2,000 IU (con esta comida — ajustar dosis con analítica 25-OH-D; UL adultos 4,000 IU/día)
+- Vitamina D3 2,000 IU (con esta comida — ajustar con analítica 25-OH-D; UL adultos 4,000 IU/día)
 
 CENA
 - 100g espinaca
 - 2 huevos
 - 100g camote
 - 1 cda aceite de oliva
-- Magnesio glicinato 300mg (bajar si hay malestar GI — límite suplementos ~350mg)
+- Magnesio glicinato 300mg (UL suplementos adultos ~350mg — bajar si hay malestar GI)
 
 ADICIÓN
-- Betarraga: pre-entreno 2–3h antes (efecto performance); si no, noche suma por salud igual
+- Betarraga: pre-entreno 2–3h antes. No usar enjuague bucal antiséptico cerca del consumo — interfiere con conversión nitrato→NO (efecto vascular). Si no puedes pre-entreno, noche suma por salud igual.
 - Zanahoria noche
-- Jengibre dosis culinaria 3–5g + 1 limón + 2 ajo post-entreno (10g/día puede irritar estómago; interacción con anticoagulantes — ajustar si aplica)
+- Jengibre dosis culinaria 3–5g + 1 limón + 2 ajo post-entreno (interacción con anticoagulantes — ajustar si aplica)
+
+---
 
 *Técnicas de Estudio*
-1. Retrieval Practice: Al cerrar sesión → 5 min escribir de memoria + 3–5 preguntas tipo examen auto-creadas + corrección el mismo día. Trigger obligatorio.
+1. Retrieval Practice: Al cerrar sesión → 5 min escribir de memoria + 3–5 preguntas tipo examen auto-creadas + corrección el mismo día. Trigger obligatorio. Evidencia muy robusta (testing effect).
 2. Spaced Repetition adaptativo: recuerdas fácil → duplicas intervalo; con esfuerzo → mantienes; fallas → acortas + generas 1 ejemplo propio. Base: día siguiente → semana → 15d → 30d.
-3. Interleaving: 70% bloque + 30% interleaving. Se siente peor → retención superior ~25%.
+3. Interleaving: 70% bloque + 30% interleaving. Se siente peor — mejora discriminación y retención en muchos contextos; el efecto varía según material y no siempre supera al spacing solo.
 4. Elaborative Interrogation: "¿Por qué esto es así?" y "¿Cómo conecta con lo que ya sé?"
 5. Concrete Examples (self-generated): Tus propios ejemplos > los del libro.
 6. Dual Coding: Texto + diagrama propio. No copiado.
 7. Espaciado interno en sesión: bloques 10–15 min → pausa → 10–15 min. Separar revisiones mañana/tarde si es posible.
+
+---
 
 *Hábitos*
 
@@ -131,13 +145,15 @@ TRIMESTRAL
 - Ciclo de descarga: 1 semana al 50–60% cada 6–8 semanas.
 
 ANUAL
-- Chequeo médico: análisis de sangre completo + 25-OH-D (vitamina D). Detectar antes de sentir.
+- Chequeo médico: análisis de sangre completo + 25-OH-D (vitamina D) + perfil lipídico (LDL/triglicéridos — control por 4 huevos/día). Detectar antes de sentir.
 - Auditoría de entorno: casa, trabajo, teléfono — ¿facilita o dificulta los hábitos?
+
+---
 
 *Dashboard semanal — 5 min*
 
 FÍSICO
-1. Zona 2 min/semana (objetivo: 150+ min moderados)
+1. Zona 2 min/semana (objetivo: 150+ min moderados — talk test como control)
 2. Progreso fuerza: pull-ups totales en 3 sets (u otro indicador elegido)
 3. Dolor articular 0–10: si >3 sostenido → ajustar volumen dips/Tier 2
 
@@ -148,9 +164,14 @@ ENERGÍA
 CUERPO
 6. Peso o cintura (solo tendencia — no dato aislado)
 
+ADHERENCIA
+7. % bloques clave cumplidos: fuerza 3×, cardio 3×, sueño, estudio. Objetivo: ≥80%.
+
 REGLAS DE AJUSTE
 - 2 semanas seguidas: baja rendimiento + sube dolor → reducir Tier 2 a 1 set esa semana
 - 2–3 semanas sin progreso pero durmiendo bien → microaumenta dificultad (tempo, carga, variante)
+
+---
 
 *Finanzas — estructura base (configurar una vez)*
 - Cuenta separada de ahorro: transferencia automática el día de cobro
@@ -160,6 +181,8 @@ REGLAS DE AJUSTE
 - Vehículo: VT (Vanguard Total World) — ~10,000 posiciones, 50+ países, expense ratio 0.06%, un solo ticker
 - Estrategia: DCA mensual fijo sin mirar precio — consistencia > timing
 - Retiro sostenible: 3% anual como base con guardrails — si mercado cae significativamente, ajustar gasto temporalmente. Flexibilidad > cifra fija.
+
+---
 
 *Datos relevantes*
 - Tomar decisiones en L2 reduce influencia emocional en dilemas de alta carga afectiva (efecto real pero variable por dominio y nivel de L2 — herramienta, no ley universal).
