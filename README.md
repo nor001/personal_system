@@ -1,32 +1,31 @@
-# Sistema de vida
+Sistema de vida
 
-## Ejercicio
-Rutina completa ~50 min
-CALENTAMIENTO — 5 min (sin descanso entre ejercicios)
+*Ejercicio*
+Rutina fuerza ~50 min
+
+CALENTAMIENTO — 5 min (sin descanso)
 * Jumping jacks: 30 seg
 * Arm circles: 30 seg
 * Hip circles: 30 seg
 * Leg swings: 30 seg c/lado
 * Inchworm: 5 reps
 
-BLOQUE TIER 1 — 3 Sets
-* Pull-up 6–8, 90 seg
-* Dip 8–10, 90 seg
-* Push-up 12–15, 60 seg
-* Bulgarian split squat 10–12 c/pierna, 60 seg
-* RDL con mochila 8–12, 60 seg (bisagra real — hamstrings + cadena posterior)
+BLOQUE TIER 1 — 3 Rondas en supersets
+* Superset A: Pull-up 6–8 ↔ Dip 8–10 (descansa entre ellos, completa descanso al terminar la ronda: 90 seg)
+* Superset B: Bulgarian split squat 10–12 c/pierna ↔ RDL con mochila 8–12 (descanso 60 seg entre rondas)
+* Solo C: Push-up 12–15, 60 seg
 
-BLOQUE TIER 2 — 2 Sets
-* Pike push-up 8–10, 60 seg
-* Australian row 10–12, 60 seg
-* Band pull-aparts 15–25, 45 seg (equilibra tirón/empuje — salud escapular)
-* Glute bridge 15, 45 seg
-* Calf raises 15–20, 45 seg
+BLOQUE TIER 2 — Circuito 2 rondas (descanso corto entre ejercicios)
+* Pike push-up 8–10
+* Australian row 10–12
+* Band pull-aparts 15–25
+* Glute bridge 15
+* Calf raises 15–20
 
-CORE FINISHER — 5 min (descanso 30 seg entre ejercicios)
-* Hollow body hold: 3 × 20 seg
-* Plank: 2 × 30 seg
-* Side plank: 2 × 30 seg c/lado
+CORE FINISHER — 5 min
+* Hollow body hold: 3 × 20 seg (30 seg descanso)
+* Plank: 2 × 30 seg (30 seg descanso)
+* Side plank: 2 × 30 seg c/lado (30 seg descanso)
 
 MOVILIDAD ACTIVA — 5 min
 * Deep squat hold: 3 × 30 seg
@@ -35,108 +34,133 @@ MOVILIDAD ACTIVA — 5 min
 * Isquiotibiales activos: 30 seg c/lado
 
 REGLA DE PROGRESIÓN
-Cuando alcances el tope alto del rango en todos los sets → aumenta dificultad siguiente sesión.
-Regla RIR: termina la mayoría de sets con 1–2 reps en reserva. Último set de 1–2 ejercicios: puedes ir a RIR 0–1 si te sientes bien.
+Tope alto del rango en todos los sets → aumenta dificultad siguiente sesión.
+RIR: mayoría de sets a RIR 1–2. Último set de 1–2 ejercicios: RIR 0–1 si te sientes bien.
 * Push-up → declinadas
 * Pull-up → lastre o tempo lento (3 seg bajada)
-* Bulgarian split squat → añade peso o eleva pie trasero más
+* Bulgarian split squat → añade peso o eleva pie trasero
 * RDL → aumenta peso en mochila
 
-DISTRIBUCIÓN SEMANAL (alineada con OMS: 150+ min cardio + fuerza 2+/sem)
-* Lun / Mié / Vie: Rutina de fuerza completa
-* Mar / Jue: Zona 2 — 25–40 min (caminata rápida, trote suave, bici) + movilidad 5–10 min
-* Sáb: Opcional — paseo largo / deporte / técnica ligera
+REGLA DE SEGURIDAD — DIPS
+Sin dolor y con rango controlado. Si aparece dolor anterior de hombro o codo: reduce profundidad, prueba agarre neutro (anillas), o reemplaza temporalmente por push-up declinado / close-grip.
+
+DISTRIBUCIÓN SEMANAL
+* Lun / Mié / Vie: Rutina fuerza completa
+* Mar / Jue: Zona 2 — 45–60 min (caminata rápida, trote suave, bici)
+* Sáb: Zona 2 — 30–45 min fijo (asegura 150+ min/sem OMS) + opcional paseo/deporte
 * Dom: Descanso real
+Micro-cardio adicional: 10–15 min caminata rápida post-comida en días de fuerza cuando sea posible.
 
-## Menú Unico
-Meta proteína: 1.8g × peso corporal (kg) = target diario. Distribuir en dosis de ~20–40g por comida.
+*Menú*
+Meta proteína: 1.8g × peso corporal (kg). Distribuir ~20–40g por comida.
+Sal yodada en casa — solución automática para yodo.
 
-**Desayuno**
+DESAYUNO
 - 2 huevos
 - 100g brócoli
 - 1 cda maca
 - 1 scoop proteína
-- 5g creatina (cualquier hora — consistencia diaria > timing)
+- 5g creatina (cualquier hora — consistencia > timing)
 - 100g fresas
 - 1 cda aceite de oliva
-- 1 cda chía o linaza (fibra — suma ~5–6g)
+- 1 cda chía o linaza (~5–6g fibra)
 
-**Almuerzo**
-- 150–180g proteína animal — 1 día/sem reemplazar por hígado de res 85–100g (reducido de 2× por acumulación vitamina A preformada)
-- Los días de pescado: sardina o caballa > pollo → omega-3 real. Meta: 2 porciones/sem.
+ALMUERZO
+- 150–180g proteína animal — 1 día/sem: hígado de res 85–100g (no más: límite vitamina A preformada UL adultos 3,000 mcg/día)
+- Días de pescado: sardina o caballa > pollo. Meta: 2 porciones/sem.
 - 100g col morada
 - 100g camote
-- 1/2 taza menestras (lentejas/garbanzos/frijoles) — fibra + proteína vegetal complementaria
+- 1/2 taza menestras (lentejas/garbanzos/frijoles) — fibra + proteína vegetal
 - 10–15g nueces o semillas de calabaza
-- Vitamina D3 2,000 IU (con esta comida — absorción con grasa; idealmente ajustar dosis con analítica 25-OH-D)
+- 1 fuente de calcio: yogur / queso / sardinas con espina / leche o alternativa fortificada
+- Vitamina D3 2,000 IU (con esta comida — ajustar dosis con analítica 25-OH-D; UL adultos 4,000 IU/día)
 
-**Cena**
+CENA
 - 100g espinaca
 - 2 huevos
 - 100g camote
 - 1 cda aceite de oliva
-- Magnesio glicinato 300mg (noche — mejora sueño y recuperación; límite superior desde suplementos ~350mg, bajar si hay malestar GI)
+- Magnesio glicinato 300mg (bajar si hay malestar GI — límite suplementos ~350mg)
 
-**Adición**
-- Betarraga: mover a pre-entreno 2–3h antes cuando sea posible (efecto performance); si no, noche igual suma por salud
+ADICIÓN
+- Betarraga: pre-entreno 2–3h antes (efecto performance); si no, noche suma por salud igual
 - Zanahoria noche
-- Jengibre (dosis culinaria ~3–5g) + 1 limón + 2 ajo post-entreno. 10g jengibre diario puede irritar estómago y tiene interacciones con anticoagulantes/fármacos — ajustar si es el caso.
+- Jengibre dosis culinaria 3–5g + 1 limón + 2 ajo post-entreno (10g/día puede irritar estómago; interacción con anticoagulantes — ajustar si aplica)
 
-## Tecnicas Estudio
-1. Retrieval Practice: Al cerrar cada sesión → 5 min escribir de memoria + 3–5 preguntas tipo examen auto-creadas. Corregir el mismo día (feedback cercano). Trigger obligatorio.
-2. Spaced Repetition: Espaciado adaptativo por desempeño — recuerdas fácil → duplicas intervalo; con esfuerzo → mantienes; fallas → acortas + generas 1 ejemplo propio. Base: día siguiente → semana → 15d → 30d.
-3. Interleaving: 70% bloque (construir) + 30% interleaving (retención). Se siente peor → retención superior ~25%.
-4. Elaborative Interrogation: "¿Por qué esto es así?" y "¿Cómo conecta con lo que ya sé?" Fuerza integración semántica.
-5. Concrete Examples (self-generated): Generar tus propios ejemplos activa encoding más profundo.
-6. Dual Coding: Texto + diagrama propio. Traducir concepto → visual consolida distinta vía neural.
-7. Espaciado interno en sesión: bloques de 10–15 min → pausa breve → 10–15 min. Evitar micro-tests sin pausa. Separar revisiones mañana/tarde si es posible.
+*Técnicas de Estudio*
+1. Retrieval Practice: Al cerrar sesión → 5 min escribir de memoria + 3–5 preguntas tipo examen auto-creadas + corrección el mismo día. Trigger obligatorio.
+2. Spaced Repetition adaptativo: recuerdas fácil → duplicas intervalo; con esfuerzo → mantienes; fallas → acortas + generas 1 ejemplo propio. Base: día siguiente → semana → 15d → 30d.
+3. Interleaving: 70% bloque + 30% interleaving. Se siente peor → retención superior ~25%.
+4. Elaborative Interrogation: "¿Por qué esto es así?" y "¿Cómo conecta con lo que ya sé?"
+5. Concrete Examples (self-generated): Tus propios ejemplos > los del libro.
+6. Dual Coding: Texto + diagrama propio. No copiado.
+7. Espaciado interno en sesión: bloques 10–15 min → pausa → 10–15 min. Separar revisiones mañana/tarde si es posible.
 
-## Habitos
-**DIARIO**
-- Sueño: 7-9h, horario fijo
-- Ejercicio: según distribución semanal (fuerza o zona 2)
+*Hábitos*
+
+DIARIO
+- Sueño: 7–9h, horario fijo
+- Ejercicio: según distribución semanal
 - Vacío mental: 10–15 min sin estímulo — integrable en caminata outdoor
 - Bloque mental: 1h según rotación
-- Alimentación: Verduras + proteína + carbohidratos complejos + fibra. Sin procesados como base
-- Reflexión: 15min — qué pasó, qué agradezco, qué ajusto
+- Alimentación: verduras + proteína + carbohidratos complejos + fibra. Sin procesados como base
+- Reflexión: 15 min — qué pasó, qué agradezco, qué ajusto
 
-**DUCHA FRÍA**
-3×/sem mínimo, 2–3 min. Timing: mañana al despertar o días de cardio/descanso.
-No inmediatamente post-entrenamiento de fuerza (evidencia: atenúa adaptaciones de hipertrofia/fuerza).
+DUCHA FRÍA
+3×/sem, 2–3 min. Timing: mañana al despertar o días cardio/descanso. No inmediatamente post-entrenamiento de fuerza (atenúa hipertrofia).
 
-**BLOQUE MENTAL — rotación semanal**
+BLOQUE MENTAL — rotación semanal
 - Lun / Mié / Vie: Inglés — 30min input + 30min output. Métrica: test IELTS o Duolingo cada 60 días.
 - Mar / Jue: Lectura profunda — no ficción, técnico o desarrollo personal
-- Sábado: Escritura — síntesis de la semana, ensayo, diario extendido
+- Sábado: Escritura — síntesis semanal, ensayo, diario extendido
 - Domingo: Libre o skill monetizable (freelance, proyecto, negociación)
 
-**SEMANAL**
+SEMANAL
 - Ayuno 18h: Sábado — última comida viernes ~7pm, romper sábado ~1pm. Si baja rendimiento o compromete proteína semanal → reducir a 14–16h o mover a día sin fuerza.
 - Conexión social: 1h calidad + 1 micro-conexión (10–15 min mensaje/llamada). Métrica: ¿saliste diferente de como entraste?
+- Dashboard del sistema (5 min — ver abajo)
 
-**MENSUAL**
-- Revisión financiera: 30min — gastos vs. ahorro vs. inversión. Ahorro automático mínimo 10-20% antes de gastar
-- Auditoría de pantalla: ¿El uso real de tecnología apoya o sabotea el sistema? Ajustar si es necesario
+MENSUAL
+- Revisión financiera: 30min — gastos vs. ahorro vs. inversión. Ahorro automático mínimo 10–20% antes de gastar.
+- Auditoría de pantalla: ¿tecnología apoya o sabotea el sistema? Ajustar.
 
-**TRIMESTRAL**
-- Revisión de dirección: 1h — ¿hacia dónde voy?, ¿qué cambió?, ¿qué elimino o ajusto?
-- Stop doing list: ¿Qué hábito, persona o actividad me quita energía sin retorno? Eliminar
-- Revisión de relaciones: ¿Quién suma, quién resta? Meta: 1 persona nueva de valor por trimestre.
+TRIMESTRAL
+- Revisión de dirección: 1h — ¿hacia dónde voy?, ¿qué cambió?, ¿qué elimino?
+- Stop doing list: ¿qué hábito, persona o actividad quita energía sin retorno? Eliminar.
+- Revisión de relaciones: ¿quién suma, quién resta? Meta: 1 persona nueva de valor por trimestre.
 - Ciclo de descarga: 1 semana al 50–60% cada 6–8 semanas.
 
-**ANUAL**
-- Chequeo médico: Análisis de sangre completo + 25-OH-D (vitamina D). Detectar antes de sentir.
-- Auditoría de entorno: Casa, trabajo, teléfono — ¿el entorno facilita o dificulta los hábitos?
+ANUAL
+- Chequeo médico: análisis de sangre completo + 25-OH-D (vitamina D). Detectar antes de sentir.
+- Auditoría de entorno: casa, trabajo, teléfono — ¿facilita o dificulta los hábitos?
 
-## FINANZAS — estructura base (configurar una vez)
+*Dashboard semanal — 5 min*
+
+FÍSICO
+1. Zona 2 min/semana (objetivo: 150+ min moderados)
+2. Progreso fuerza: pull-ups totales en 3 sets (u otro indicador elegido)
+3. Dolor articular 0–10: si >3 sostenido → ajustar volumen dips/Tier 2
+
+ENERGÍA
+4. Sueño promedio (horas + consistencia)
+5. Rendimiento percibido 0–10
+
+CUERPO
+6. Peso o cintura (solo tendencia — no dato aislado)
+
+REGLAS DE AJUSTE
+- 2 semanas seguidas: baja rendimiento + sube dolor → reducir Tier 2 a 1 set esa semana
+- 2–3 semanas sin progreso pero durmiendo bien → microaumenta dificultad (tempo, carga, variante)
+
+*Finanzas — estructura base (configurar una vez)*
 - Cuenta separada de ahorro: transferencia automática el día de cobro
-- Fondo de emergencia: 3-6 meses de gastos básicos
+- Fondo de emergencia: 3–6 meses de gastos básicos
 - Inversión pasiva indexada: sin timing, sin apuestas activas
-- Broker: Interactive Brokers (IBKR) — sin mínimo de cuenta, comisiones bajas (verificar si califica para plan Lite según región y condiciones). Acepta Perú.
+- Broker: Interactive Brokers (IBKR) — sin mínimo de cuenta, comisiones bajas (verificar si califica para plan Lite según región). Acepta Perú.
 - Vehículo: VT (Vanguard Total World) — ~10,000 posiciones, 50+ países, expense ratio 0.06%, un solo ticker
 - Estrategia: DCA mensual fijo sin mirar precio — consistencia > timing
-- Retiro sostenible: 3% anual como base. Aplicar guardrails: si el mercado cae significativamente, ajustar gasto temporalmente. Cifra exacta depende de horizonte y portafolio — la flexibilidad supera a un número fijo.
+- Retiro sostenible: 3% anual como base con guardrails — si mercado cae significativamente, ajustar gasto temporalmente. Flexibilidad > cifra fija.
 
-## Datos relevantes
-- Tomar decisiones en L2 reduce la influencia emocional en dilemas de alta carga afectiva (efecto real pero variable por dominio y nivel de L2 — herramienta, no ley universal).
-- Protocolo estrés: si hay activación emocional alta → esperar 20 min y escribir: qué pasó / qué siento / qué necesito / qué acción mínima haría bien / qué acción empeoraría todo. Convierte el delay en regulación, no en evitación.
+*Datos relevantes*
+- Tomar decisiones en L2 reduce influencia emocional en dilemas de alta carga afectiva (efecto real pero variable por dominio y nivel de L2 — herramienta, no ley universal).
+- Protocolo estrés: activación emocional alta → esperar 20 min y escribir: qué pasó / qué siento / qué necesito / qué acción mínima haría bien / qué acción empeoraría todo. Convierte el delay en regulación, no en evitación.
