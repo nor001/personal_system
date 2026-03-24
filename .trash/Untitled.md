@@ -1,5 +1,7 @@
 **Sistema de vida**
 
+**V6.2**
+
 ## **Índice**
 
 *   Ejercicio — rutina fuerza, zona 2, distribución semanal
