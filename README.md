@@ -81,9 +81,7 @@
 *   Push-up: 8–15
 *   Bulgarian split squat: 8–12 c/pierna
 *   1 set: Side plank 30 seg c/lado
-
 _Regla: si no puedo hacer el plan completo → hago la mínima._
-
 _Opcional (si tu Zona 2 incluye trote): Tibialis raises 2×15–25, 2–3×/sem al final de fuerza o en días cardio. Reduce riesgo tibia/tobillo._
 
 ## **Distribución semanal**
