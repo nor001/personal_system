@@ -10,7 +10,7 @@ CALENTAMIENTO — 5 min (sin descanso)
 * Leg swings: 30 seg c/lado
 * Inchworm: 5 reps
 
-PRE-SUPERSET A — prehab hombro (30–60 seg, antes de empuje/dips)
+PRE-SUPERSET A — prehab hombro (30–60 seg)
 * Scapular push-ups: 10–15 reps
 * Band external rotations: 15–20 reps c/lado (si tienes banda)
 
@@ -45,25 +45,44 @@ RIR: mayoría de sets a RIR 1–2. Último set de 1–2 ejercicios: RIR 0–1 si
 * Bulgarian split squat → añade peso o eleva pie trasero
 * RDL → aumenta peso en mochila
 
+REGLA ANTI-ESTANCAMIENTO
+Si 2 semanas seguidas el indicador (pull-ups totales u otro) no sube Y el sueño está bien → cambia 1 variable por 2 semanas:
+* +2.5–5% carga en mochila (RDL/Bulgarian), o
+* +1 rep por set hasta tope, o
+* tempo 3s bajada en el primer set solamente (pull-up/push-up)
+
 REGLA DE SEGURIDAD — DIPS
-Sin dolor y con rango controlado. Si aparece dolor anterior de hombro o codo: reduce profundidad, prueba agarre neutro (anillas), o reemplaza temporalmente por push-up declinado / close-grip.
+Sin dolor y con rango controlado. Señal roja: si dolor anterior de hombro aparece durante dips o dura >24–48h → reemplaza dips por 2 semanas completas (no 2 días) por: push-up declinado / close-grip, o rango reducido, o agarre neutro (anillas). Evita el patrón de insistir y lesionarte.
+
+REGLA DÍA APRETADO (50 min → 35 min)
+Jerarquía de recorte:
+1. Warm-up + prehab hombro — no negociable
+2. Tier 1 completo — no negociable
+3. Core: solo hollow + side plank (1–2 sets)
+4. Tier 2: bajar a 1 ronda
+5. Movilidad: recortable si no queda tiempo
 
 DISTRIBUCIÓN SEMANAL
 * Lun / Mié / Vie: Rutina fuerza completa
 * Mar / Jue: Zona 2 — 45–60 min
-* Sáb: Zona 2 — 30–45 min fijo (asegura 150+ min/sem OMS)
+* Sáb: Zona 2 — 30–45 min fijo (ver regla de garantía)
 * Dom: Descanso real
 Micro-cardio adicional: 10–15 min caminata rápida post-comida en días de fuerza cuando sea posible.
 
-ZONA 2 — cómo saber que estás en la intensidad correcta
-Talk test: puedes hablar en frases completas, pero no cantar. RPE 4–5/10. FC aprox. 60–70% del máximo. Lo importante: intensidad estable durante toda la sesión. Si puedes hablar fácil y sin pausas → estás bien.
+ZONA 2 — intensidad correcta
+Talk test: puedes hablar en frases completas pero no cantar. RPE 4–5/10. FC aprox. 60–70% del máximo. Intensidad estable durante toda la sesión.
+Hidratación días largos (45–60 min): si sudas bastante → agua + pizca de sal yodada o electrolitos.
+
+REGLA DE GARANTÍA — 150 min/sem
+Escenario mínimo (Mar 45 + Jue 45 + Sáb 30) = 120 min. Para cerrar: micro-cardio 10 min en 3 días de fuerza = 150 min ✅
+Si al llegar el sábado el total acumulado es <150 min → sábado se vuelve 45–60 min fijo, no opcional.
 
 ---
 
 *Menú*
 Meta proteína: 1.8g × peso corporal (kg). Distribuir ~20–40g por comida.
 Sal yodada en casa — solución automática para yodo.
-Fibra: subir gradual (comenzar con 1/4 taza menestras → 1/2 taza) + acompañar con agua para evitar gases/malestar inicial.
+Fibra: subir gradual (1/4 taza menestras → 1/2 taza) + acompañar con agua para evitar malestar inicial.
 
 DESAYUNO
 - 2 huevos
@@ -76,14 +95,14 @@ DESAYUNO
 - 1 cda chía o linaza (~5–6g fibra)
 
 ALMUERZO
-- 150–180g proteína animal — 1 día/sem: hígado de res 85–100g (UL vitamina A preformada adultos: 3,000 mcg/día — 1×/sem es prudente)
+- 150–180g proteína animal — 1 día/sem: hígado de res 85–100g (UL vitamina A preformada adultos: 3,000 mcg/día)
 - Días de pescado: sardina o caballa > pollo. Meta: 2 porciones/sem.
 - 100g col morada
 - 100g camote
-- 1/2 taza menestras (lentejas/garbanzos/frijoles) — fibra + proteína vegetal
+- 1/2 taza menestras (lentejas/garbanzos/frijoles)
 - 10–15g nueces o semillas de calabaza
 - 1 fuente de calcio: yogur / queso / sardinas con espina / leche o alternativa fortificada
-- Vitamina D3 2,000 IU (con esta comida — ajustar con analítica 25-OH-D; UL adultos 4,000 IU/día)
+- Vitamina D3 2,000 IU (ajustar con analítica 25-OH-D; UL adultos 4,000 IU/día)
 
 CENA
 - 100g espinaca
@@ -93,20 +112,21 @@ CENA
 - Magnesio glicinato 300mg (UL suplementos adultos ~350mg — bajar si hay malestar GI)
 
 ADICIÓN
-- Betarraga: pre-entreno 2–3h antes. No usar enjuague bucal antiséptico cerca del consumo — interfiere con conversión nitrato→NO (efecto vascular). Si no puedes pre-entreno, noche suma por salud igual.
+- Betarraga: pre-entreno 2–3h antes. No usar enjuague bucal antiséptico cerca del consumo (interfiere conversión nitrato→NO). Si no puedes pre-entreno, noche suma por salud igual.
 - Zanahoria noche
 - Jengibre dosis culinaria 3–5g + 1 limón + 2 ajo post-entreno (interacción con anticoagulantes — ajustar si aplica)
 
 ---
 
 *Técnicas de Estudio*
-1. Retrieval Practice: Al cerrar sesión → 5 min escribir de memoria + 3–5 preguntas tipo examen auto-creadas + corrección el mismo día. Trigger obligatorio. Evidencia muy robusta (testing effect).
+1. Retrieval Practice: Al cerrar sesión → 5 min escribir de memoria + 3–5 preguntas tipo examen auto-creadas + corrección el mismo día. Trigger obligatorio. Evidencia más robusta del área.
 2. Spaced Repetition adaptativo: recuerdas fácil → duplicas intervalo; con esfuerzo → mantienes; fallas → acortas + generas 1 ejemplo propio. Base: día siguiente → semana → 15d → 30d.
-3. Interleaving: 70% bloque + 30% interleaving. Se siente peor — mejora discriminación y retención en muchos contextos; el efecto varía según material y no siempre supera al spacing solo.
+3. Interleaving: 70% bloque + 30% interleaving. Se siente peor — mejora discriminación y retención bajo condiciones específicas; el efecto varía según material.
 4. Elaborative Interrogation: "¿Por qué esto es así?" y "¿Cómo conecta con lo que ya sé?"
 5. Concrete Examples (self-generated): Tus propios ejemplos > los del libro.
 6. Dual Coding: Texto + diagrama propio. No copiado.
 7. Espaciado interno en sesión: bloques 10–15 min → pausa → 10–15 min. Separar revisiones mañana/tarde si es posible.
+8. Simulacro mensual: 20–30 min sin apuntes, tipo examen acumulativo. Métrica de verdad de terreno — complementa el retrieval diario.
 
 ---
 
@@ -137,6 +157,7 @@ SEMANAL
 MENSUAL
 - Revisión financiera: 30min — gastos vs. ahorro vs. inversión. Ahorro automático mínimo 10–20% antes de gastar.
 - Auditoría de pantalla: ¿tecnología apoya o sabotea el sistema? Ajustar.
+- Simulacro de estudio acumulativo: 20–30 min sin apuntes.
 
 TRIMESTRAL
 - Revisión de dirección: 1h — ¿hacia dónde voy?, ¿qué cambió?, ¿qué elimino?
@@ -145,7 +166,7 @@ TRIMESTRAL
 - Ciclo de descarga: 1 semana al 50–60% cada 6–8 semanas.
 
 ANUAL
-- Chequeo médico: análisis de sangre completo + 25-OH-D (vitamina D) + perfil lipídico (LDL/triglicéridos — control por 4 huevos/día). Detectar antes de sentir.
+- Chequeo médico: análisis de sangre completo + 25-OH-D + perfil lipídico (LDL/triglicéridos). Detectar antes de sentir.
 - Auditoría de entorno: casa, trabajo, teléfono — ¿facilita o dificulta los hábitos?
 
 ---
@@ -153,23 +174,24 @@ ANUAL
 *Dashboard semanal — 5 min*
 
 FÍSICO
-1. Zona 2 min/semana (objetivo: 150+ min moderados — talk test como control)
+1. Zona 2 min/semana (objetivo: 150+ min — talk test como control)
 2. Progreso fuerza: pull-ups totales en 3 sets (u otro indicador elegido)
-3. Dolor articular 0–10: si >3 sostenido → ajustar volumen dips/Tier 2
+3. Dolor articular 0–10: si >3 sostenido → aplicar señal roja dips / reducir Tier 2
 
 ENERGÍA
 4. Sueño promedio (horas + consistencia)
 5. Rendimiento percibido 0–10
 
 CUERPO
-6. Peso o cintura (solo tendencia — no dato aislado)
+6. Peso o cintura (solo tendencia semanal)
 
 ADHERENCIA
 7. % bloques clave cumplidos: fuerza 3×, cardio 3×, sueño, estudio. Objetivo: ≥80%.
 
 REGLAS DE AJUSTE
-- 2 semanas seguidas: baja rendimiento + sube dolor → reducir Tier 2 a 1 set esa semana
-- 2–3 semanas sin progreso pero durmiendo bien → microaumenta dificultad (tempo, carga, variante)
+- 2 semanas: baja rendimiento + sube dolor → reducir Tier 2 a 1 set
+- 2–3 semanas sin progreso + sueño bien → aplicar regla anti-estancamiento
+- Adherencia <80% dos semanas seguidas → identificar el bloque que falla y ajustar, no eliminar
 
 ---
 
@@ -178,7 +200,7 @@ REGLAS DE AJUSTE
 - Fondo de emergencia: 3–6 meses de gastos básicos
 - Inversión pasiva indexada: sin timing, sin apuestas activas
 - Broker: Interactive Brokers (IBKR) — sin mínimo de cuenta, comisiones bajas (verificar si califica para plan Lite según región). Acepta Perú.
-- Vehículo: VT (Vanguard Total World) — ~10,000 posiciones, 50+ países, expense ratio 0.06%, un solo ticker
+- Vehículo: VT (Vanguard Total World) — ~10,000 posiciones, 50+ países, expense ratio 0.06%, un solo ticker. Si en algún momento la residencia fiscal es UE/EEE: usar equivalente UCITS con KID para exposición global (regulación PRIIPs restringe ETFs USA a minoristas).
 - Estrategia: DCA mensual fijo sin mirar precio — consistencia > timing
 - Retiro sostenible: 3% anual como base con guardrails — si mercado cae significativamente, ajustar gasto temporalmente. Flexibilidad > cifra fija.
 
