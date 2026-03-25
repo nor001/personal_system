@@ -1,28 +1,27 @@
-# Sistema de vida
-> Validado · Integración completa
-> Áreas cubiertas: Ejercicio · Nutrición · Sueño · Energía circadiana · Estudio · Inglés · PKM · Hábitos · Dashboard · Protocolo enfermedad/lesión · Suplementos · Finanzas
+# Sistema de vida — Infraestructura
+> Estable · Cambia poco · Contiene: principios, arquitectura, reglas marco, criterios de decisión
+> Idioma del archivo: español (infraestructura es independiente del idioma activo)
 
 ---
 
 ## Índice
-- [1. Ejercicio](#1-ejercicio)
-- [2. Nutrición](#2-nutrición)
-- [3. Sueño](#3-sueño)
-- [4. Energía circadiana](#4-energía-circadiana)
-- [5. Estudio](#5-estudio)
-- [6. Inglés](#6-inglés)
-- [7. PKM](#7-pkm)
-- [8. Hábitos](#8-hábitos)
-- [9. Dashboard semanal](#9-dashboard-semanal)
+- [1. Ejercicio — arquitectura y reglas](#1-ejercicio--arquitectura-y-reglas)
+- [2. Nutrición — framework](#2-nutrición--framework)
+- [3. Sueño — fundamentos](#3-sueño--fundamentos)
+- [4. Energía circadiana — framework](#4-energía-circadiana--framework)
+- [5. Estudio — sistema de 8 técnicas](#5-estudio--sistema-de-8-técnicas)
+- [6. Idiomas — arquitectura del sistema](#6-idiomas--arquitectura-del-sistema)
+- [7. PKM — arquitectura](#7-pkm--arquitectura)
+- [8. Hábitos — estructura permanente](#8-hábitos--estructura-permanente)
+- [9. Dashboard semanal — métricas y reglas de ajuste](#9-dashboard-semanal--métricas-y-reglas-de-ajuste)
 - [10. Protocolo enfermedad / lesión](#10-protocolo-enfermedad--lesión)
-- [11. Suplementos](#11-suplementos)
-- [12. Finanzas](#12-finanzas)
+- [11. Suplementos — criterios y stack lógico](#11-suplementos--criterios-y-stack-lógico)
+- [12. Finanzas — estructura base](#12-finanzas--estructura-base)
 - [13. Datos relevantes](#13-datos-relevantes)
-- [14. Checklist semanal](#14-checklist-semanal)
 
 ---
 
-## 1. Ejercicio
+## 1. Ejercicio — arquitectura y reglas
 
 ### Distribución semanal
 
@@ -126,7 +125,7 @@ Si 2–3 días seguidos: sueño "malo" + rendimiento percibido ≤5/10 → esa s
 
 ---
 
-### Zona 2 — intensidad correcta
+### Zona 2 — criterios de intensidad
 
 - Talk test: puedes hablar en frases completas pero no cantar
 - RPE 4–5/10. FC aprox. 60–70% del máximo
@@ -138,18 +137,20 @@ Mínimo: Mar 45 + Jue 45 + Sáb 30 = 120. Completar con micro-cardio 10 min en 3
 Si al llegar el sábado el total acumulado es <150 min → sábado es 45–60 min fijo, no opcional.
 
 > **CRITERIO MICRO-CARDIO COMPUTABLE**
-> El micro-cardio solo cuenta hacia los 150 min si cumple: talk test positivo (puedes hablar en frases pero no cantar) O RPE ≥4/10. Una caminata lenta sin ese umbral no computa. Duda → no contar.
+> Solo cuenta hacia los 150 min si: talk test positivo (puedes hablar en frases pero no cantar) O RPE ≥4/10. Una caminata lenta sin ese umbral no computa. Duda → no contar.
 
 ---
 
-## 2. Nutrición
+## 2. Nutrición — framework
 
-> **DATO BASE REQUERIDO**
-> Meta proteína: 1.8g × **[registrar peso corporal en kg]** = ___g/día. Actualizar si el peso cambia ≥3kg sostenido. Sin este valor, el plan es nominal, no ejecutable.
+> **DATO BASE REQUERIDO (en archivo operativo)**
+> Meta proteína: 1.8g × peso corporal (kg) = ___g/día. Actualizar si el peso cambia ≥3kg sostenido.
 
-Distribuir ~20–40g por comida.
+Distribuir ~20–40g proteína por comida.
 Sal yodada en casa — solución automática para yodo.
 Fibra: subir gradual (1/4 taza menestras → 1/2 taza) + agua para evitar malestar inicial.
+
+### Estructura de comidas (base)
 
 **DESAYUNO**
 - 2 huevos
@@ -162,7 +163,7 @@ Fibra: subir gradual (1/4 taza menestras → 1/2 taza) + agua para evitar malest
 - 1 cda chía o linaza (~5–6g fibra)
 
 **ALMUERZO**
-- 150–180g proteína animal — 1 día/cada 2 semanas: hígado de res 85–100g *(ver nota vitamina A abajo)*
+- 150–180g proteína animal — 1 día/cada 2 semanas: hígado de res 85–100g *(ver nota vitamina A)*
 - Días de pescado: sardina o caballa > pollo. Meta: 2 porciones/sem
 - 100g col morada
 - 100g camote
@@ -172,64 +173,64 @@ Fibra: subir gradual (1/4 taza menestras → 1/2 taza) + agua para evitar malest
 - Vitamina D3 2,000 IU *(ajustar con analítica 25-OH-D; UL adultos 4,000 IU/día)*
 
 > **NOTA VITAMINA A — HÍGADO**
-> El hígado de res cocido aporta del orden de 8,000–9,500 µg RAE por 100g (USDA FoodData Central). El UL de vitamina A preformada en adultos es 3,000 µg RE/día (EFSA). La vitamina A es liposoluble y se acumula. Opciones (elegir 1):
+> Hígado de res cocido aporta ~8,000–9,500 µg RAE por 100g. UL vitamina A preformada: 3,000 µg RE/día (EFSA). La vitamina A es liposoluble y se acumula. Opciones (elegir 1):
 > - **Opción A (recomendada):** hígado 1× cada 2 semanas, 85–100g
 > - **Opción B:** hígado 1×/sem pero 30–50g
-> - **Opción C (si mantienes 85–100g/sem):** eliminar toda otra fuente concentrada de vitamina A preformada (aceite de hígado de bacalao, multivitamínico con vitamina A)
-> - **Hard stop:** evitar hígado alto en vitamina A preformada en embarazo o posibilidad de embarazo (riesgo teratogénico).
+> - **Opción C:** hígado 85–100g/sem → eliminar toda otra fuente concentrada de vitamina A preformada
+> - **Hard stop:** evitar en embarazo o posibilidad de embarazo.
 
 **CENA**
 - 100g espinaca
 - 2 huevos
 - 100g camote
 - 1 cda aceite de oliva
-- Magnesio glicinato 300mg *(UL suplementos adultos ~350mg — bajar si hay malestar GI. El UL aplica a suplementos, no a fuentes alimentarias)*
+- Magnesio glicinato 300mg *(UL suplementos ~350mg — bajar si hay malestar GI)*
 
-**ADICIÓN**
+**ADICIONES**
 - Betarraga: pre-entreno 2–3h antes. No usar enjuague bucal antiséptico cerca del consumo.
 - Zanahoria noche
 - Jengibre 3–5g + 1 limón + 2 ajo post-entreno *(interacción con anticoagulantes — ajustar si aplica)*
 
-**REGLA DE AJUSTE CALÓRICO (sin contar macros)**
+### Regla de ajuste calórico (sin contar macros)
+
 Usa tendencia semanal (peso o cintura + rendimiento):
-- Si cintura/peso baja demasiado y rendimiento cae → **+1 porción carbohidrato** en almuerzo o cena
-- Si cintura sube sostenido y no es tu objetivo → **−1 porción carbohidrato** (camote a ~70g o menestras a 1/4 taza)
+- Cintura/peso baja demasiado y rendimiento cae → **+1 porción carbohidrato** en almuerzo o cena
+- Cintura sube sostenido y no es tu objetivo → **−1 porción carbohidrato** (camote a ~70g o menestras a 1/4 taza)
 
 ---
 
-## 3. Sueño
+## 3. Sueño — fundamentos
 
-### Fundamentos
-- Duración: 7–9h, horario fijo
-- Magnesio glicinato 300mg con cena — ya en menú
-- Ducha fría: no inmediatamente post-entrenamiento de fuerza (frío intenso post-fuerza, especialmente inmersión, puede atenuar adaptaciones de fuerza/hipertrofia)
+### Duración y consistencia
+- 7–9h, horario fijo
+- Magnesio glicinato 300mg con cena — ya integrado en nutrición
 
 ### Ambiente — 3 variables que más mueven aguja
 
 | Variable | Objetivo | Solución mínima |
 |---|---|---|
 | Temperatura | 18–20°C | Ventilador + ropa ligera + descubrir pies si no hay AC |
-| Oscuridad | Blackout total | Antifaz o cortinas opacas — luz filtra melatonina incluso con ojos cerrados |
+| Oscuridad | Blackout total | Antifaz o cortinas opacas |
 | Ruido | Estable | Tapones o ruido blanco/marrón si entorno variable |
 
 ### Protocolo pre-sueño (60–90 min antes)
 - Reducir luz azul: bajar brillo al máximo + modo cálido. Óptimo: gafas bloqueadoras o luz naranja/vela
 - Evitar contenido de alta activación cognitiva: series de acción, redes sociales → arousal tarda 20–40 min en bajar
-- Ducha tibia (no fría) 60–90 min antes → acelera descenso de temperatura core → onset más rápido
+- Ducha tibia (no fría) 60–90 min antes → acelera descenso de temperatura core
 
 **ANCLA CIRCADIANA PRINCIPAL**
-Luz/oscuridad es el zeitgeber dominante del sistema circadiano. En la práctica: hora fija de despertar + luz natural en los primeros 30 min post-despertar para "bloquear" el ritmo. Fijar hora de despertar 7 días/sem, incluso si dormiste mal. Sin exposición temprana a luz natural, la hora fija pierde parte de su efecto.
+Hora fija de despertar 7 días/sem + luz natural en los primeros 30 min post-despertar. Sin exposición temprana a luz natural, la hora fija pierde parte de su efecto.
 
 **ANCLA CIRCADIANA SECUNDARIA**
-Evitar luz intensa (especialmente azul) en las 2h previas al sueño — refuerza la señal de oscuridad que el sistema circadiano necesita para iniciar la cascada de melatonina.
+Evitar luz intensa (especialmente azul) en las 2h previas al sueño.
 
 ### Métricas
-- Dashboard: añadir calidad subjetiva 1–10 junto a horas
+- Dashboard: calidad subjetiva 1–10 junto a horas
 - Wearable (opcional): Oura o Garmin — útil para tendencias, no diagnóstico clínico
 
 ---
 
-## 4. Energía circadiana
+## 4. Energía circadiana — framework
 
 ### Determinar cronotipo
 
@@ -244,67 +245,67 @@ Evitar luz intensa (especialmente azul) en las 2h previas al sueño — refuerza
 | Franja | Actividad |
 |---|---|
 | Despertar + 30 min | Luz natural, no pantallas, desayuno |
-| + 1–4h post-despertar | Bloque mental principal (estudio SAP/BTP, inglés output) |
+| + 1–4h post-despertar | Bloque mental principal (estudio, idioma activo output) |
 | Post-almuerzo | Zona 2 o tareas mecánicas (inbox, admin) |
 | 16–18h | Fuerza o segundo bloque mental |
 | 2h pre-sueño | Sin trabajo exigente, reducir estimulación |
 
 **REGLA FUERZA TARDÍA**
-El ejercicio de fuerza eleva temperatura core y cortisol ~2–4h. Si entrenas después de 19–20h y duermes mal → mover fuerza a mañana o mediodía. Señal: onset de sueño retrasado >30 min de forma consistente.
+El ejercicio de fuerza eleva temperatura core y cortisol ~2–4h. Si entrenas después de 19–20h y duermes mal → mover fuerza a mañana o mediodía.
 
 ### Cafeína (opcional — solo si la usas)
-Si decides incorporarla como herramienta cognitiva:
-- Úsala solo antes del bloque mental principal — no en goteo constante durante el día
-- Corte horario: deja mínimo 8–10h antes de dormir (varía por persona; la métrica de control es calidad de sueño 1–10)
-- Dosis de referencia: hasta ~400mg/día en adultos sanos (FDA); la mayoría obtiene efecto útil con 100–200mg. Tu métrica real sigue siendo calidad de sueño y latencia, no el número.
-- **Stop rule:** si calidad de sueño baja ≥1 punto de forma sostenida → reducir dosis o adelantar corte horario antes de cualquier otro ajuste
-- Si no la usas: sin acción requerida
+- Solo antes del bloque mental principal
+- Corte: mínimo 8–10h antes de dormir
+- Dosis de referencia: hasta ~400mg/día (FDA); efecto útil con 100–200mg
+- **Stop rule:** si calidad de sueño baja ≥1 punto sostenido → reducir dosis o adelantar corte antes de cualquier otro ajuste
 
 ---
 
-## 5. Estudio
-
-### Sistema de 8 técnicas
+## 5. Estudio — sistema de 8 técnicas
 
 1. **Retrieval Practice:** al cerrar sesión → 5 min escribir de memoria + 3–5 preguntas tipo examen auto-creadas + corrección el mismo día. Trigger obligatorio.
-2. **Spaced Repetition adaptativo:** recuerdas fácil → duplicas intervalo; con esfuerzo → mantienes; fallas → acortas + generas 1 ejemplo propio. Base: día siguiente → semana → 15d → 30d.
-3. **Interleaving:** 70% bloque + 30% interleaving. Se siente peor — mejora discriminación y retención bajo condiciones específicas; el efecto varía según material.
+2. **Spaced Repetition adaptativo:** fácil → duplicar intervalo; con esfuerzo → mantener; falla → acortar + generar 1 ejemplo propio. Base: día siguiente → semana → 15d → 30d.
+3. **Interleaving:** 70% bloque + 30% interleaving. Se siente peor — mejora discriminación y retención; el efecto varía según material.
 4. **Elaborative Interrogation:** "¿Por qué esto es así?" y "¿Cómo conecta con lo que ya sé?"
-5. **Concrete Examples (self-generated):** tus propios ejemplos > los del libro.
+5. **Concrete Examples (self-generated):** propios ejemplos > los del libro.
 6. **Dual Coding:** texto + diagrama propio. No copiado.
 7. **Espaciado interno en sesión:** bloques 10–15 min → pausa → 10–15 min. Separar revisiones mañana/tarde si posible.
 8. **Simulacro mensual:** 20–30 min sin apuntes, tipo examen acumulativo. Métrica real de terreno.
 
 ---
 
-## 6. Inglés
+## 6. Idiomas — arquitectura del sistema
 
-### Input — 30 min (jerarquía)
-- **Prioridad 1:** audio/video con transcript. Nivel i+1: entiendes 70–80%, 20% restante es el reto. Fuentes: BBC Learning English, All Ears English, YouTube subtítulos en inglés (no traducidos)
-- **Prioridad 2:** textos técnicos en tu dominio (SAP, BTP, arquitectura software)
+> El sistema siempre tiene 1 idioma **activo** (adquisición) y puede tener 1 idioma en **mantenimiento** (consolidación). El idioma activo y el plan específico van en el archivo operativo.
 
-### Output — 30 min (rotación)
+### Framework de adquisición (aplica a cualquier idioma activo)
 
-| Día | Actividad | Detalle |
+**Input — 30 min/día (jerarquía)**
+- Prioridad 1: audio/video con transcript. Nivel i+1: entiendes 70–80%, 20% restante es el reto
+- Prioridad 2: textos técnicos en tu dominio
+
+**Output — 30 min/día (rotación 3 días)**
+
+| Sesión | Actividad | Detalle |
 |---|---|---|
-| Lunes | Escritura + corrección | Escritura libre 15 min → feedback IA (gramática + vocabulario alternativo) → 15 min implementar |
-| Miércoles | Shadowing + speaking | Shadowing 15 min (repetir audio frase por frase) + grabar 2–3 min en tema técnico → escuchar → 1 error |
-| Viernes | Retrieval en L2 + micro-corrección | Explicar 1 concepto SAP/BTP en inglés sin notas, 20 min → últimos 5 min: pasar texto/audio a IA con prompt "identifica 1 error gramatical y 1 opción de vocabulario más preciso" → registrar en PKM |
+| Sesión A | Escritura + corrección | Escritura libre 15 min → feedback IA → 15 min implementar |
+| Sesión B | Shadowing + speaking | Shadowing 15 min + grabar 2–3 min en tema técnico → escuchar → 1 error |
+| Sesión C | Retrieval en L2 + micro-corrección | Explicar 1 concepto técnico sin notas, 20 min → 5 min micro-corrección IA → registrar en PKM |
 
-> **CORRECCIÓN VIERNES**
-> El retrieval sin corrección solidifica errores. Los 5 min de micro-corrección son el mínimo para cerrar el loop. No requieren reescritura — solo identificar y anotar. Doble función: producción L2 + detección de fosilización temprana.
+> **CORRECCIÓN SESIÓN C**
+> El retrieval sin corrección solidifica errores. 5 min de micro-corrección son el mínimo para cerrar el loop. Doble función: producción L2 + detección de fosilización temprana.
 
-### Métricas
-- Cada 60 días: IELTS mock test gratuito (British Council o Cambridge) — mide las 4 skills por separado
+**Speaking — protocolo mínimo anti-bloqueo**
+2–3 min grabación de voz, 3×/sem (dentro del bloque output). No requieres interlocutor para empezar. Objetivo inicial: reducir latencia de producción, no perfección.
+
+**Métricas (estructura)**
+- Cada 60 días: mock test estándar del idioma (mide las 4 skills por separado)
 - Skill más baja → +10 min esa semana
-- Duolingo: herramienta de vocabulario, **no** indicador de progreso real
-
-**SPEAKING — protocolo mínimo anti-bloqueo**
-2–3 min grabación de voz, 3×/sem (dentro del bloque output). No necesitas interlocutor para empezar. Objetivo inicial: reducir latencia de producción, no perfección.
+- Apps de vocabulario gamificadas: herramienta auxiliar, **no** indicador de progreso real
 
 ---
 
-## 7. PKM
+## 7. PKM — arquitectura
 
 *Principio: un PKM que no se usa en <30 segundos de captura no se sostiene. Complejidad mata adherencia.*
 
@@ -312,17 +313,17 @@ Si decides incorporarla como herramienta cognitiva:
 
 | Capa | Frecuencia | Acción | Integración |
 |---|---|---|---|
-| 1 — Captura | Continua | Bandeja única, sin procesar. Cualquier idea que valga en 30 días → registrar | Últimos 2 min de reflexión diaria |
-| 2 — Procesamiento | 1×/sem (sábado) | Inbox → accionable (tareas) / referencia / insight a desarrollar | Primeros 5 min de escritura del sábado |
+| 1 — Captura | Continua | Bandeja única, sin procesar | Últimos 2 min de reflexión diaria |
+| 2 — Procesamiento | 1×/sem (sábado) | Inbox → accionable / referencia / insight a desarrollar | Primeros 5 min de escritura del sábado |
 | 3 — Conexión | 1×/mes | Revisar insights, buscar 1–2 conexiones entre dominios distintos | Últimos 10 min del simulacro mensual |
 
-### Herramienta
-- **Fase 1 (ahora):** notas nativas del teléfono — 3 carpetas: Inbox / Referencia / Insights. Setup: 2 min.
-- **Fase 2 (opcional):** Notion u Obsidian — solo si adherencia ≥8 semanas Y el volumen o la búsqueda lo justifican. No antes.
+### Criterio de herramienta
+- **Fase 1:** notas nativas del teléfono — 3 carpetas: Inbox / Referencia / Insights. Setup: 2 min.
+- **Fase 2:** Notion u Obsidian — solo si adherencia ≥8 semanas Y el volumen o la búsqueda lo justifican. No antes.
 
 ---
 
-## 8. Hábitos
+## 8. Hábitos — estructura permanente
 
 ### Diario
 - Sueño: 7–9h, horario fijo
@@ -333,55 +334,49 @@ Si decides incorporarla como herramienta cognitiva:
 - Reflexión: 15 min — qué pasó / qué agradezco / qué ajusto + últimos 2 min captura PKM
 
 ### Reglas del bloque mental
-> **cómo ejecutar el bloque, no solo cuándo**
-
-- **1 tarea por bloque** (MIT — Most Important Task): definirla antes de abrir cualquier herramienta
-- **Teléfono fuera del alcance visual** — no silenciado en la mesa; fuera de la habitación o cara abajo en otro cuarto
-- **Notificaciones: solo urgentes** — modo avión o Do Not Disturb activo durante el bloque
-- **Cierre estructurado (2–3 min):** al terminar, anotar "¿qué sigue?" para reducir fricción al retomar la próxima sesión
+- **1 tarea por bloque** (MIT): definirla antes de abrir cualquier herramienta
+- **Teléfono fuera del alcance visual** — fuera de la habitación o cara abajo en otro cuarto
+- **Notificaciones: solo urgentes** — modo avión o DND activo durante el bloque
+- **Cierre estructurado (2–3 min):** anotar "¿qué sigue?" para reducir fricción al retomar
 
 > **TRIGGER DE FATIGA COGNITIVA (señal temprana)**
-> La señal de §9 ("bloques <5/sem × 2 semanas") es rezagada — detecta el problema después de 14 días.
-> Señal temprana: rendimiento percibido ≤5/10 **Y** calidad percibida del bloque mental ≤4/10 por **2 días seguidos** → esa semana reducir bloque de 60 a 30 min y priorizar retrieval/repaso sobre input nuevo. No eliminar el bloque — reducir carga cognitiva de procesamiento.
-> Restaurar a 60 min cuando rendimiento percibido vuelva a ≥6 durante 2 días consecutivos.
+> Rendimiento percibido ≤5/10 **Y** calidad percibida del bloque ≤4/10 por **2 días seguidos** → reducir bloque de 60 a 30 min y priorizar retrieval/repaso sobre input nuevo. No eliminar — reducir carga. Restaurar a 60 min cuando rendimiento vuelva a ≥6 durante 2 días consecutivos.
 
 ### Ducha fría
-3×/sem, 2–3 min. Timing: mañana al despertar o días cardio/descanso. No inmediatamente post-entrenamiento de fuerza (frío intenso puede atenuar adaptaciones de fuerza/hipertrofia).
+3×/sem, 2–3 min. Timing: mañana al despertar o días cardio/descanso. No inmediatamente post-entrenamiento de fuerza.
 
-### Bloque mental — rotación semanal
+### Rotación semanal de bloques mentales
 
 | Día | Actividad | Métrica |
 |---|---|---|
-| Lun / Mié / Vie | Inglés — 30min input + 30min output rotativo | IELTS mock 4 skills c/60 días |
-| Mar / Jue | Lectura profunda — no ficción, técnico o desarrollo personal | — |
-| Sábado | Escritura — síntesis semanal, ensayo, diario extendido + procesamiento PKM | — |
-| Domingo | Libre o skill monetizable (freelance, proyecto, negociación) | — |
+| Lun / Mié / Vie | Idioma activo — 30min input + 30min output rotativo | Mock test c/60 días |
+| Mar / Jue | Proyecto principal (certificación, máster, u otro definido en operativo) | Según objetivo del ciclo |
+| Sábado | Escritura — síntesis semanal + procesamiento PKM | — |
+| Domingo | Libre o skill monetizable | — |
 
 ### Semanal
-- Ayuno 18h: **Domingo** — última comida sábado ~7pm, romper domingo ~1pm. Día sin zona 2 ni bloque cognitivo obligatorio → menor conflicto de demanda.
-  > Sábado combinaba: ayuno 18h + Zona 2 condicional + bloque cognitivo (escritura/síntesis) + PKM + dashboard = mayor carga física y cognitiva de la semana con menor input calórico. Conflicto sistémico. Domingo es día de descanso real — la carga metabólica del ayuno no compite con rendimiento cognitivo ni físico. Si el domingo se activa un proyecto o evento social → reducir a 14–16h ese día o mover al lunes.
-
-- Conexión social: 1h calidad + 1 micro-conexión (10–15 min). Métrica: ¿saliste diferente de como entraste?
-- Dashboard del sistema (5 min)
+- **Ayuno 18h — Domingo:** última comida sábado ~7pm, romper domingo ~1pm. Día sin zona 2 ni bloque cognitivo obligatorio. Si el domingo se activa evento social → reducir a 14–16h ese día o mover al lunes.
+- **Conexión social:** 1h calidad + 1 micro-conexión (10–15 min). Métrica: ¿saliste diferente de como entraste?
+- **Dashboard del sistema (5 min)**
 
 ### Mensual
-- Revisión financiera: 30 min — gastos vs. ahorro vs. inversión. Ahorro automático mínimo 10–20% antes de gastar
-- Auditoría de pantalla: ¿tecnología apoya o sabotea el sistema? Ajustar
+- Revisión financiera: 30 min — gastos vs. ahorro vs. inversión
+- Auditoría de pantalla: ¿tecnología apoya o sabotea el sistema?
 - Simulacro de estudio acumulativo: 20–30 min sin apuntes + últimos 10 min revisión conexiones PKM
 
 ### Trimestral
 - Revisión de dirección: 1h — ¿hacia dónde voy?, ¿qué cambió?, ¿qué elimino?
-- Stop doing list: ¿qué hábito, persona o actividad quita energía sin retorno? Eliminar
+- Stop doing list: ¿qué hábito, persona o actividad quita energía sin retorno?
 - Revisión de relaciones: ¿quién suma, quién resta? Meta: 1 persona nueva de valor por trimestre
 - Ciclo de descarga: 1 semana al 50–60% cada 6–8 semanas
 
 ### Anual
-- Chequeo médico: análisis de sangre completo + 25-OH-D + perfil lipídico (LDL/triglicéridos)
+- Chequeo médico: análisis de sangre completo + 25-OH-D + perfil lipídico
 - Auditoría de entorno: casa, trabajo, teléfono — ¿facilita o dificulta los hábitos?
 
 ---
 
-## 9. Dashboard semanal — 5 min
+## 9. Dashboard semanal — métricas y reglas de ajuste
 
 ### 8 métricas
 
@@ -401,7 +396,7 @@ Si decides incorporarla como herramienta cognitiva:
 - 2–3 semanas sin progreso + sueño bien → aplicar regla anti-estancamiento
 - Adherencia <80% dos semanas seguidas → identificar el bloque que falla y ajustar, no eliminar
 - Señal de fatiga 2–3 días seguidos → Tier 2 a 1 ronda + RIR 2 esa semana
-- Métrica cognitiva <5 bloques/sem por 2 semanas → revisar reglas del bloque mental (sección 8) — y verificar si trigger temprano ya activó protocolo de reducción
+- Métrica cognitiva <5 bloques/sem por 2 semanas → revisar reglas del bloque mental
 
 ---
 
@@ -410,7 +405,7 @@ Si decides incorporarla como herramienta cognitiva:
 ### Enfermedad
 
 **REGLA CUELLO ARRIBA / ABAJO**
-- Síntomas **sobre** el cuello (resfriado leve, congestión nasal): versión mínima de fuerza o caminata suave. Sin zona 2 intensa.
+- Síntomas **sobre** el cuello: versión mínima de fuerza o caminata suave. Sin zona 2 intensa.
 - Síntomas **bajo** el cuello (fiebre, dolor muscular generalizado, GI, pecho): pausa total hasta 24–48h después de que desaparezcan síntomas.
 - **Fiebre: pausa absoluta.** Entrenar con fiebre eleva riesgo cardíaco real.
 
@@ -426,16 +421,14 @@ Si decides incorporarla como herramienta cognitiva:
 - Mantener proteína aunque baje el apetito (prioridad 1)
 - Hidratación +500ml sobre lo habitual
 - Creatina: continuar (sin contraindicación)
-- Betarraga, jengibre, ajo: mantener
 
 ---
 
 ### Lesión
 
 **PEACE & LOVE (reemplaza RICE)**
-- Primeras 48h: Protección + Elevación + Evitar antiinflamatorios (interfieren con reparación) + Compresión + Educación
+- Primeras 48h: Protección + Elevación + Evitar antiinflamatorios + Compresión + Educación
 - Después: Carga progresiva + Optimismo + Vascularización + Ejercicio
-- No inmovilizar salvo fractura confirmada
 
 **Árbol de decisión**
 
@@ -453,36 +446,32 @@ Si decides incorporarla como herramienta cognitiva:
 
 ---
 
-## 11. Suplementos
+## 11. Suplementos — criterios y stack lógico
 
-### Stack base (siempre)
+### Stack base
 
 | Suplemento | Dosis | Timing | Nota |
 |---|---|---|---|
 | Creatina | 5g | Cualquier hora | Consistencia > timing |
 | Proteína whey | 1 scoop | Desayuno | Completar meta 1.8g/kg |
-| Vitamina D3 | 2,000 IU | Almuerzo | **Obtener analítica 25-OH-D de baseline antes de continuar (ver nota).** UL: 4,000 IU/día |
-| Magnesio glicinato | 300mg | Cena | UL ~350mg desde suplementos (no aplica a fuentes alimentarias). Bajar si malestar GI |
+| Vitamina D3 | 2,000 IU | Almuerzo | **Requiere baseline 25-OH-D.** UL: 4,000 IU/día. Si ≥40 ng/ml: suspender y reevaluar. Si <30: mantener o subir según indicación. |
+| Magnesio glicinato | 300mg | Cena | UL ~350mg desde suplementos. Bajar si malestar GI |
 
 > **VITAMINA D3 SIN BASELINE**
-> Lima (~12°S, alta irradiación UV año redondo) tiene condiciones de síntesis endógena superiores a latitudes medias. Es posible que los niveles ya sean suficientes o incluso altos. Continuar a 2,000 IU sin baseline es suplementar a ciegas. Acción: incluir 25-OH-D en el próximo análisis de sangre — no esperar al chequeo anual si ya pasaron >6 meses sin medición. Si resultado ≥40 ng/ml: suspender D3 y reevaluar. Si <30 ng/ml: mantener o subir según indicación.
+> Lima (~12°S) tiene alta irradiación UV año redondo. Es posible que los niveles ya sean suficientes. Incluir 25-OH-D en el próximo análisis — no esperar al chequeo anual si ya pasaron >6 meses sin medición.
 
 ### Stack condicional
 
 | Suplemento | Cuándo añadir | Dosis | Nota |
 |---|---|---|---|
 | Omega-3 (EPA+DHA) | Si sardina/caballa <2×/sem | 1–2g EPA+DHA | Con almuerzo (con grasa). Forma triglicérido > etil éster. Certificación IFOS. |
-| Zinc | Solo si analítica confirma déficit | 15–25mg bisglicinato | Con comida, no ayunas. No junto a magnesio alta dosis. No exceder 25mg/d (criterio EFSA). Si uso >8–12 semanas: vigilar cobre/hemograma. >40mg/día sostenido → depleta cobre. |
-| Ashwagandha KSH-66 | Último recurso — preferible evitar salvo supervisión médica (ver nota) | 300–600mg extracto | Con cena. Ciclar: 8–12 sem on / 4 off. Contraindicado en Hashimoto, embarazo, lactancia, enfermedad hepática. Stop rules: somnolencia inusual, malestar GI persistente, ictericia u orina oscura → suspender y consultar médico inmediatamente. Riesgo real de daño hepático documentado (BfR Alemania). |
+| Zinc | Solo si analítica confirma déficit | 15–25mg bisglicinato | Con comida, no ayunas. No junto a magnesio alta dosis. No exceder 25mg/d. Si uso >8–12 semanas: vigilar cobre/hemograma. |
+| Ashwagandha KSH-66 | Último recurso — preferible evitar (ver nota) | 300–600mg extracto | Con cena. Ciclar: 8–12 sem on / 4 off. Contraindicado en Hashimoto, embarazo, lactancia, enfermedad hepática. Stop rules: somnolencia inusual, malestar GI persistente, ictericia u orina oscura → suspender y consultar médico inmediatamente. |
 
 > **UMBRAL DE INICIO ASHWAGANDHA**
-> Criterio operacionalizado (ambas condiciones deben cumplirse simultáneamente):
-> Rendimiento percibido promedio ≤5/10 durante ≥2 semanas consecutivas **+** calidad de sueño ≥6 (descarta causa física/sueño como origen). Si ambas se cumplen: candidato a evaluación médica antes de iniciar. Si el sueño también está mal → resolver sueño primero. No iniciar sin al menos consulta médica dado el perfil de riesgo hepático.
+> Ambas condiciones simultáneas: rendimiento percibido promedio ≤5/10 durante ≥2 semanas **+** calidad de sueño ≥6. Si el sueño también está mal → resolver sueño primero. No iniciar sin consulta médica dado el perfil de riesgo hepático documentado (BfR Alemania).
 
-> **ADVERTENCIA ASHWAGANDHA**
-> El BfR (Alemania) reporta casos de daño hepático asociados y no ha podido derivar un nivel de ingesta seguro. Contraindicado especialmente en niños, embarazadas/lactancia y personas con historial hepático. Tratar como "último recurso" dentro del stack, no como suplemento de rutina.
-
-**NO suplementar sin analítica:** hierro (hígado cubre), B12 (proteína animal cubre), yodo (sal yodada cubre).
+**NO suplementar sin analítica:** hierro, B12, yodo (cubiertos por dieta base).
 
 ---
 
@@ -491,14 +480,14 @@ Si decides incorporarla como herramienta cognitiva:
 - Cuenta separada de ahorro: transferencia automática el día de cobro
 - Fondo de emergencia: 3–6 meses de gastos básicos
 - Inversión pasiva indexada: sin timing, sin apuestas activas
-- Broker: Interactive Brokers (IBKR) — sin mínimo de cuenta (USD 0.00), comisiones bajas. Disponible en Perú.
+- Broker: Interactive Brokers (IBKR) — sin mínimo de cuenta, comisiones bajas. Disponible en Perú.
 - Vehículo: VT (Vanguard Total World) — ~10,000 posiciones, 50+ países, expense ratio 0.06%, un solo ticker
-  - Si residencia fiscal es UE/EEE: usar equivalente UCITS con KID (regulación PRIIPs). Ejemplo práctico: VWCE (acumulación) o VWRL (distribución) de Vanguard FTSE All-World UCITS.
+  - Si residencia fiscal es UE/EEE: usar equivalente UCITS con KID (regulación PRIIPs). Ejemplo: VWCE (acumulación) o VWRL (distribución) de Vanguard FTSE All-World UCITS.
 - Estrategia: DCA mensual fijo sin mirar precio — consistencia > timing
-- Retiro sostenible: 3% anual como base con guardrails — si mercado cae significativamente, ajustar gasto temporalmente
+- Retiro sostenible: 3% anual como base con guardrails
 
 **NOTA FISCAL — estate tax**
-Para no residentes / no ciudadanos USA: IRS requiere Form 706-NA si activos en EE.UU. superan USD 60,000 al fallecimiento. No cambia la estrategia; obliga a elegir bien el domicilio del ETF y/o planificar.
+No residentes / no ciudadanos USA: IRS requiere Form 706-NA si activos en EE.UU. superan USD 60,000 al fallecimiento. No cambia la estrategia; obliga a elegir bien el domicilio del ETF y/o planificar.
 
 ---
 
@@ -516,45 +505,3 @@ Si activación emocional alta → esperar 20 min y escribir:
 5. ¿Qué empeoraría todo?
 
 Convierte el delay en regulación, no en evitación.
-
----
-
-## 14. Checklist semanal (copiable)
-
-**Ejercicio**
-- [ ] Fuerza (Lunes)
-- [ ] Fuerza (Miércoles)
-- [ ] Fuerza (Viernes)
-- [ ] Zona 2 (Martes) ___ min (RPE ≥4)
-- [ ] Zona 2 (Jueves) ___ min (RPE ≥4)
-- [ ] Zona 2 (Sábado) ___ min ← 45–60 si faltan minutos
-- [ ] Micro-cardio post-comida (≥3×, RPE ≥4 para computar)
-
-**Sueño y energía**
-- [ ] Sueño promedio ___ h
-- [ ] Calidad sueño ___ /10
-- [ ] Rendimiento percibido ___ /10
-
-**Cognitivo (trigger temprano)**
-- [ ] ¿2 días seguidos rendimiento ≤5 Y bloque ≤4? → aplicar protocolo reducción
-
-**Estudio e inglés**
-- [ ] Estudio (≥5 días)
-- [ ] Input inglés (Lun / Mié / Vie)
-- [ ] Output Lunes: escritura + corrección IA
-- [ ] Output Miércoles: shadowing + speaking grabado
-- [ ] Output Viernes: retrieval en L2 + 5 min micro-corrección IA
-
-**PKM**
-- [ ] Capturas de la semana procesadas (sábado, 5–10 min)
-- [ ] Insights registrados: ___
-
-**Social y sistema**
-- [ ] Conexión social (1h calidad) + micro (1×)
-- [ ] Dashboard 5 min (Dom o Sáb)
-- [ ] Ayuno 18h (Domingo) ← mover/acortar si hay evento social
-
-**Cognitivo**
-- [ ] Bloques mentales completados esta semana: ___ / 7
-
----
