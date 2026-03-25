@@ -1,5 +1,5 @@
 # Sistema de vida
-> Validado · 11 iteraciones · Integración completa
+> Validado · Integración completa
 > Áreas cubiertas: Ejercicio · Nutrición · Sueño · Energía circadiana · Estudio · Inglés · PKM · Hábitos · Dashboard · Protocolo enfermedad/lesión · Suplementos · Finanzas
 
 ---
@@ -162,7 +162,7 @@ Fibra: subir gradual (1/4 taza menestras → 1/2 taza) + agua para evitar malest
 - 1 cda chía o linaza (~5–6g fibra)
 
 **ALMUERZO**
-- 150–180g proteína animal — 1 día/sem: hígado de res 85–100g *(UL vitamina A: 3,000 mcg/día)*
+- 150–180g proteína animal — 1 día/cada 2 semanas: hígado de res 85–100g *(ver nota vitamina A abajo)*
 - Días de pescado: sardina o caballa > pollo. Meta: 2 porciones/sem
 - 100g col morada
 - 100g camote
@@ -171,12 +171,19 @@ Fibra: subir gradual (1/4 taza menestras → 1/2 taza) + agua para evitar malest
 - 1 fuente de calcio: yogur / queso / sardinas con espina / leche o alternativa fortificada
 - Vitamina D3 2,000 IU *(ajustar con analítica 25-OH-D; UL adultos 4,000 IU/día)*
 
+> **NOTA VITAMINA A — HÍGADO**
+> El hígado de res cocido aporta del orden de 8,000–9,500 µg RAE por 100g (USDA FoodData Central). El UL de vitamina A preformada en adultos es 3,000 µg RE/día (EFSA). La vitamina A es liposoluble y se acumula. Opciones (elegir 1):
+> - **Opción A (recomendada):** hígado 1× cada 2 semanas, 85–100g
+> - **Opción B:** hígado 1×/sem pero 30–50g
+> - **Opción C (si mantienes 85–100g/sem):** eliminar toda otra fuente concentrada de vitamina A preformada (aceite de hígado de bacalao, multivitamínico con vitamina A)
+> - **Hard stop:** evitar hígado alto en vitamina A preformada en embarazo o posibilidad de embarazo (riesgo teratogénico).
+
 **CENA**
 - 100g espinaca
 - 2 huevos
 - 100g camote
 - 1 cda aceite de oliva
-- Magnesio glicinato 300mg *(UL suplementos adultos ~350mg — bajar si hay malestar GI)*
+- Magnesio glicinato 300mg *(UL suplementos adultos ~350mg — bajar si hay malestar GI. El UL aplica a suplementos, no a fuentes alimentarias)*
 
 **ADICIÓN**
 - Betarraga: pre-entreno 2–3h antes. No usar enjuague bucal antiséptico cerca del consumo.
@@ -195,7 +202,7 @@ Usa tendencia semanal (peso o cintura + rendimiento):
 ### Fundamentos
 - Duración: 7–9h, horario fijo
 - Magnesio glicinato 300mg con cena — ya en menú
-- Ducha fría: no inmediatamente post-entrenamiento de fuerza (atenúa hipertrofia)
+- Ducha fría: no inmediatamente post-entrenamiento de fuerza (frío intenso post-fuerza, especialmente inmersión, puede atenuar adaptaciones de fuerza/hipertrofia)
 
 ### Ambiente — 3 variables que más mueven aguja
 
@@ -211,10 +218,10 @@ Usa tendencia semanal (peso o cintura + rendimiento):
 - Ducha tibia (no fría) 60–90 min antes → acelera descenso de temperatura core → onset más rápido
 
 **ANCLA CIRCADIANA PRINCIPAL**
-Fijar hora de despertar a la misma hora 7 días/sem, incluso si dormiste mal. El zeitgeber más potente es la hora de despertar, no de dormir.
+Luz/oscuridad es el zeitgeber dominante del sistema circadiano. En la práctica: hora fija de despertar + luz natural en los primeros 30 min post-despertar para "bloquear" el ritmo. Fijar hora de despertar 7 días/sem, incluso si dormiste mal. Sin exposición temprana a luz natural, la hora fija pierde parte de su efecto.
 
 **ANCLA CIRCADIANA SECUNDARIA**
-Luz natural en los primeros 30 min post-despertar — refuerza la sincronización circadiana junto con la hora fija de despertar.
+Evitar luz intensa (especialmente azul) en las 2h previas al sueño — refuerza la señal de oscuridad que el sistema circadiano necesita para iniciar la cascada de melatonina.
 
 ### Métricas
 - Dashboard: añadir calidad subjetiva 1–10 junto a horas
@@ -249,7 +256,7 @@ El ejercicio de fuerza eleva temperatura core y cortisol ~2–4h. Si entrenas de
 Si decides incorporarla como herramienta cognitiva:
 - Úsala solo antes del bloque mental principal — no en goteo constante durante el día
 - Corte horario: deja mínimo 8–10h antes de dormir (varía por persona; la métrica de control es calidad de sueño 1–10)
-- Dosis de referencia: hasta ~400mg/día en adultos sanos — la mayoría obtiene efecto útil con 100–200mg
+- Dosis de referencia: hasta ~400mg/día en adultos sanos (FDA); la mayoría obtiene efecto útil con 100–200mg. Tu métrica real sigue siendo calidad de sueño y latencia, no el número.
 - **Stop rule:** si calidad de sueño baja ≥1 punto de forma sostenida → reducir dosis o adelantar corte horario antes de cualquier otro ajuste
 - Si no la usas: sin acción requerida
 
@@ -339,7 +346,7 @@ Si decides incorporarla como herramienta cognitiva:
 > Restaurar a 60 min cuando rendimiento percibido vuelva a ≥6 durante 2 días consecutivos.
 
 ### Ducha fría
-3×/sem, 2–3 min. Timing: mañana al despertar o días cardio/descanso. No inmediatamente post-entrenamiento de fuerza.
+3×/sem, 2–3 min. Timing: mañana al despertar o días cardio/descanso. No inmediatamente post-entrenamiento de fuerza (frío intenso puede atenuar adaptaciones de fuerza/hipertrofia).
 
 ### Bloque mental — rotación semanal
 
@@ -455,7 +462,7 @@ Si decides incorporarla como herramienta cognitiva:
 | Creatina | 5g | Cualquier hora | Consistencia > timing |
 | Proteína whey | 1 scoop | Desayuno | Completar meta 1.8g/kg |
 | Vitamina D3 | 2,000 IU | Almuerzo | **Obtener analítica 25-OH-D de baseline antes de continuar (ver nota).** UL: 4,000 IU/día |
-| Magnesio glicinato | 300mg | Cena | UL ~350mg. Bajar si malestar GI |
+| Magnesio glicinato | 300mg | Cena | UL ~350mg desde suplementos (no aplica a fuentes alimentarias). Bajar si malestar GI |
 
 > **VITAMINA D3 SIN BASELINE**
 > Lima (~12°S, alta irradiación UV año redondo) tiene condiciones de síntesis endógena superiores a latitudes medias. Es posible que los niveles ya sean suficientes o incluso altos. Continuar a 2,000 IU sin baseline es suplementar a ciegas. Acción: incluir 25-OH-D en el próximo análisis de sangre — no esperar al chequeo anual si ya pasaron >6 meses sin medición. Si resultado ≥40 ng/ml: suspender D3 y reevaluar. Si <30 ng/ml: mantener o subir según indicación.
@@ -465,14 +472,17 @@ Si decides incorporarla como herramienta cognitiva:
 | Suplemento | Cuándo añadir | Dosis | Nota |
 |---|---|---|---|
 | Omega-3 (EPA+DHA) | Si sardina/caballa <2×/sem | 1–2g EPA+DHA | Con almuerzo (con grasa). Forma triglicérido > etil éster. Certificación IFOS. |
-| Zinc | Solo si analítica confirma déficit | 15–25mg bisglicinato | Con comida, no ayunas. No junto a magnesio alta dosis. >40mg/día sostenido → depleta cobre. |
-| Ashwagandha KSH-66 | Si se cumple el umbral de inicio (ver nota) | 300–600mg extracto | Con cena. Ciclar: 8–12 sem on / 4 off. Contraindicado en Hashimoto. Stop rules: somnolencia inusual, malestar GI persistente, ictericia u orina oscura → suspender y consultar médico. Riesgo adicional: reportes de daño hepático (BfR, Alemania). |
+| Zinc | Solo si analítica confirma déficit | 15–25mg bisglicinato | Con comida, no ayunas. No junto a magnesio alta dosis. No exceder 25mg/d (criterio EFSA). Si uso >8–12 semanas: vigilar cobre/hemograma. >40mg/día sostenido → depleta cobre. |
+| Ashwagandha KSH-66 | Último recurso — preferible evitar salvo supervisión médica (ver nota) | 300–600mg extracto | Con cena. Ciclar: 8–12 sem on / 4 off. Contraindicado en Hashimoto, embarazo, lactancia, enfermedad hepática. Stop rules: somnolencia inusual, malestar GI persistente, ictericia u orina oscura → suspender y consultar médico inmediatamente. Riesgo real de daño hepático documentado (BfR Alemania). |
 
 > **UMBRAL DE INICIO ASHWAGANDHA**
-> "Estrés elevado sostenido" no era accionable. Criterio operacionalizado:
-> Rendimiento percibido promedio ≤5/10 durante ≥2 semanas consecutivas **+** calidad de sueño ≥6 (descarta causa física/sueño como origen). Si ambas condiciones se cumplen → el sistema funciona pero hay carga de estrés sostenida sin correlato de recuperación insuficiente: candidato a ashwagandha. Si el sueño también está mal → resolver sueño primero, no añadir adaptógeno.
+> Criterio operacionalizado (ambas condiciones deben cumplirse simultáneamente):
+> Rendimiento percibido promedio ≤5/10 durante ≥2 semanas consecutivas **+** calidad de sueño ≥6 (descarta causa física/sueño como origen). Si ambas se cumplen: candidato a evaluación médica antes de iniciar. Si el sueño también está mal → resolver sueño primero. No iniciar sin al menos consulta médica dado el perfil de riesgo hepático.
 
-**NO suplementar sin analítica:** hierro (hígado 1×/sem cubre), B12 (proteína animal cubre), yodo (sal yodada cubre).
+> **ADVERTENCIA ASHWAGANDHA**
+> El BfR (Alemania) reporta casos de daño hepático asociados y no ha podido derivar un nivel de ingesta seguro. Contraindicado especialmente en niños, embarazadas/lactancia y personas con historial hepático. Tratar como "último recurso" dentro del stack, no como suplemento de rutina.
+
+**NO suplementar sin analítica:** hierro (hígado cubre), B12 (proteína animal cubre), yodo (sal yodada cubre).
 
 ---
 
@@ -481,9 +491,9 @@ Si decides incorporarla como herramienta cognitiva:
 - Cuenta separada de ahorro: transferencia automática el día de cobro
 - Fondo de emergencia: 3–6 meses de gastos básicos
 - Inversión pasiva indexada: sin timing, sin apuestas activas
-- Broker: Interactive Brokers (IBKR) — sin mínimo de cuenta, comisiones bajas. Disponible en Perú.
+- Broker: Interactive Brokers (IBKR) — sin mínimo de cuenta (USD 0.00), comisiones bajas. Disponible en Perú.
 - Vehículo: VT (Vanguard Total World) — ~10,000 posiciones, 50+ países, expense ratio 0.06%, un solo ticker
-  - Si residencia fiscal es UE/EEE: usar equivalente UCITS con KID (regulación PRIIPs)
+  - Si residencia fiscal es UE/EEE: usar equivalente UCITS con KID (regulación PRIIPs). Ejemplo práctico: VWCE (acumulación) o VWRL (distribución) de Vanguard FTSE All-World UCITS.
 - Estrategia: DCA mensual fijo sin mirar precio — consistencia > timing
 - Retiro sostenible: 3% anual como base con guardrails — si mercado cae significativamente, ajustar gasto temporalmente
 
